@@ -1,0 +1,4871 @@
+[
+  {
+    "Zeit": "15/8/23 16:34",
+    "pO2 [%]": 94.93,
+    "Temperatur [°C]": 30.0198,
+    "pH-Wert": 6.2566,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 0,
+    "Minuten nach Start": 0
+  },
+  {
+    "Zeit": "15/8/23 16:49",
+    "pO2 [%]": 97.67,
+    "Temperatur [°C]": 25.9036,
+    "pH-Wert": 6.0708,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 0,
+    "Minuten nach Start": 15
+  },
+  {
+    "Zeit": "15/8/23 17:04",
+    "pO2 [%]": 98.63,
+    "Temperatur [°C]": 25.5179,
+    "pH-Wert": 6.0708,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 1,
+    "Minuten nach Start": 30
+  },
+  {
+    "Zeit": "15/8/23 17:19",
+    "pO2 [%]": 97.89,
+    "Temperatur [°C]": 25.3893,
+    "pH-Wert": 6.0974,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 1,
+    "Minuten nach Start": 45
+  },
+  {
+    "Zeit": "15/8/23 17:34",
+    "pO2 [%]": 99.26,
+    "Temperatur [°C]": 25.2608,
+    "pH-Wert": 6.0841,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 1,
+    "Minuten nach Start": 60
+  },
+  {
+    "Zeit": "15/8/23 17:49",
+    "pO2 [%]": 99.79,
+    "Temperatur [°C]": 25.1322,
+    "pH-Wert": 6.0841,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 1,
+    "Minuten nach Start": 75
+  },
+  {
+    "Zeit": "15/8/23 18:04",
+    "pO2 [%]": 99.47,
+    "Temperatur [°C]": 25.0679,
+    "pH-Wert": 6.0974,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 2,
+    "Minuten nach Start": 90
+  },
+  {
+    "Zeit": "15/8/23 18:19",
+    "pO2 [%]": 99.79,
+    "Temperatur [°C]": 25.0679,
+    "pH-Wert": 6.0974,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 2,
+    "Minuten nach Start": 105
+  },
+  {
+    "Zeit": "15/8/23 18:34",
+    "pO2 [%]": 100.11,
+    "Temperatur [°C]": 25.0037,
+    "pH-Wert": 6.0974,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 2,
+    "Minuten nach Start": 120
+  },
+  {
+    "Zeit": "15/8/23 18:49",
+    "pO2 [%]": 99.47,
+    "Temperatur [°C]": 25.0037,
+    "pH-Wert": 6.0974,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 2,
+    "Minuten nach Start": 135
+  },
+  {
+    "Zeit": "15/8/23 19:04",
+    "pO2 [%]": 100.63,
+    "Temperatur [°C]": 25.0037,
+    "pH-Wert": 6.1239,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 3,
+    "Minuten nach Start": 150
+  },
+  {
+    "Zeit": "15/8/23 19:19",
+    "pO2 [%]": 100.32,
+    "Temperatur [°C]": 24.9394,
+    "pH-Wert": 6.0974,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 3,
+    "Minuten nach Start": 165
+  },
+  {
+    "Zeit": "15/8/23 19:34",
+    "pO2 [%]": 99.89,
+    "Temperatur [°C]": 24.9394,
+    "pH-Wert": 6.0841,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 3,
+    "Minuten nach Start": 180
+  },
+  {
+    "Zeit": "15/8/23 19:49",
+    "pO2 [%]": 100.42,
+    "Temperatur [°C]": 25.0037,
+    "pH-Wert": 6.0841,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 3,
+    "Minuten nach Start": 195
+  },
+  {
+    "Zeit": "15/8/23 20:04",
+    "pO2 [%]": 100.21,
+    "Temperatur [°C]": 25.0037,
+    "pH-Wert": 6.0974,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 4,
+    "Minuten nach Start": 210
+  },
+  {
+    "Zeit": "15/8/23 20:19",
+    "pO2 [%]": 99.89,
+    "Temperatur [°C]": 25.0679,
+    "pH-Wert": 6.0974,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 4,
+    "Minuten nach Start": 225
+  },
+  {
+    "Zeit": "15/8/23 20:34",
+    "pO2 [%]": 99.89,
+    "Temperatur [°C]": 25.0679,
+    "pH-Wert": 6.0974,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 4,
+    "Minuten nach Start": 240
+  },
+  {
+    "Zeit": "15/8/23 20:49",
+    "pO2 [%]": 99.79,
+    "Temperatur [°C]": 25.0679,
+    "pH-Wert": 6.1106,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 4,
+    "Minuten nach Start": 255
+  },
+  {
+    "Zeit": "15/8/23 21:04",
+    "pO2 [%]": 99.79,
+    "Temperatur [°C]": 25.1322,
+    "pH-Wert": 6.1239,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 5,
+    "Minuten nach Start": 270
+  },
+  {
+    "Zeit": "15/8/23 21:19",
+    "pO2 [%]": 99.89,
+    "Temperatur [°C]": 25.1322,
+    "pH-Wert": 6.1372,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 5,
+    "Minuten nach Start": 285
+  },
+  {
+    "Zeit": "15/8/23 21:34",
+    "pO2 [%]": 99.58,
+    "Temperatur [°C]": 25.1322,
+    "pH-Wert": 6.1239,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 5,
+    "Minuten nach Start": 300
+  },
+  {
+    "Zeit": "15/8/23 21:49",
+    "pO2 [%]": 99.15,
+    "Temperatur [°C]": 25.1322,
+    "pH-Wert": 6.1372,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 5,
+    "Minuten nach Start": 315
+  },
+  {
+    "Zeit": "15/8/23 22:04",
+    "pO2 [%]": 99.47,
+    "Temperatur [°C]": 25.0679,
+    "pH-Wert": 6.1504,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 6,
+    "Minuten nach Start": 330
+  },
+  {
+    "Zeit": "15/8/23 22:19",
+    "pO2 [%]": 99.58,
+    "Temperatur [°C]": 25.0037,
+    "pH-Wert": 6.1504,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 6,
+    "Minuten nach Start": 345
+  },
+  {
+    "Zeit": "15/8/23 22:34",
+    "pO2 [%]": 99.47,
+    "Temperatur [°C]": 25.0037,
+    "pH-Wert": 6.1504,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 6,
+    "Minuten nach Start": 360
+  },
+  {
+    "Zeit": "15/8/23 22:49",
+    "pO2 [%]": 99.47,
+    "Temperatur [°C]": 25.0037,
+    "pH-Wert": 6.1504,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 6,
+    "Minuten nach Start": 375
+  },
+  {
+    "Zeit": "15/8/23 23:04",
+    "pO2 [%]": 98.63,
+    "Temperatur [°C]": 25.0037,
+    "pH-Wert": 6.1637,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 7,
+    "Minuten nach Start": 390
+  },
+  {
+    "Zeit": "15/8/23 23:19",
+    "pO2 [%]": 99.15,
+    "Temperatur [°C]": 24.9394,
+    "pH-Wert": 6.1637,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 7,
+    "Minuten nach Start": 405
+  },
+  {
+    "Zeit": "15/8/23 23:34",
+    "pO2 [%]": 99.15,
+    "Temperatur [°C]": 24.9394,
+    "pH-Wert": 6.177,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 7,
+    "Minuten nach Start": 420
+  },
+  {
+    "Zeit": "15/8/23 23:49",
+    "pO2 [%]": 98.63,
+    "Temperatur [°C]": 24.9394,
+    "pH-Wert": 6.1637,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 7,
+    "Minuten nach Start": 435
+  },
+  {
+    "Zeit": "16/8/23 0:04",
+    "pO2 [%]": 98.73,
+    "Temperatur [°C]": 24.8751,
+    "pH-Wert": 6.177,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 8,
+    "Minuten nach Start": 450
+  },
+  {
+    "Zeit": "16/8/23 0:19",
+    "pO2 [%]": 98.52,
+    "Temperatur [°C]": 24.8751,
+    "pH-Wert": 6.1903,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 8,
+    "Minuten nach Start": 465
+  },
+  {
+    "Zeit": "16/8/23 0:34",
+    "pO2 [%]": 99.15,
+    "Temperatur [°C]": 24.8108,
+    "pH-Wert": 6.1903,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 8,
+    "Minuten nach Start": 480
+  },
+  {
+    "Zeit": "16/8/23 0:49",
+    "pO2 [%]": 98.41,
+    "Temperatur [°C]": 24.8108,
+    "pH-Wert": 6.1903,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 8,
+    "Minuten nach Start": 495
+  },
+  {
+    "Zeit": "16/8/23 1:04",
+    "pO2 [%]": 98.2,
+    "Temperatur [°C]": 24.7465,
+    "pH-Wert": 6.1903,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 9,
+    "Minuten nach Start": 510
+  },
+  {
+    "Zeit": "16/8/23 1:19",
+    "pO2 [%]": 98.63,
+    "Temperatur [°C]": 24.7465,
+    "pH-Wert": 6.2035,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 9,
+    "Minuten nach Start": 525
+  },
+  {
+    "Zeit": "16/8/23 1:34",
+    "pO2 [%]": 98.1,
+    "Temperatur [°C]": 24.7465,
+    "pH-Wert": 6.2035,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 9,
+    "Minuten nach Start": 540
+  },
+  {
+    "Zeit": "16/8/23 1:49",
+    "pO2 [%]": 98.1,
+    "Temperatur [°C]": 24.6823,
+    "pH-Wert": 6.2035,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 9,
+    "Minuten nach Start": 555
+  },
+  {
+    "Zeit": "16/8/23 2:04",
+    "pO2 [%]": 98.63,
+    "Temperatur [°C]": 24.6823,
+    "pH-Wert": 6.2035,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 10,
+    "Minuten nach Start": 570
+  },
+  {
+    "Zeit": "16/8/23 2:19",
+    "pO2 [%]": 97.67,
+    "Temperatur [°C]": 24.618,
+    "pH-Wert": 6.2168,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 10,
+    "Minuten nach Start": 585
+  },
+  {
+    "Zeit": "16/8/23 2:34",
+    "pO2 [%]": 98.1,
+    "Temperatur [°C]": 24.618,
+    "pH-Wert": 6.2168,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 10,
+    "Minuten nach Start": 600
+  },
+  {
+    "Zeit": "16/8/23 2:49",
+    "pO2 [%]": 97.89,
+    "Temperatur [°C]": 24.618,
+    "pH-Wert": 6.2168,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 10,
+    "Minuten nach Start": 615
+  },
+  {
+    "Zeit": "16/8/23 3:04",
+    "pO2 [%]": 97.04,
+    "Temperatur [°C]": 24.5537,
+    "pH-Wert": 6.2301,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 11,
+    "Minuten nach Start": 630
+  },
+  {
+    "Zeit": "16/8/23 3:19",
+    "pO2 [%]": 96.93,
+    "Temperatur [°C]": 24.4894,
+    "pH-Wert": 6.2301,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 11,
+    "Minuten nach Start": 645
+  },
+  {
+    "Zeit": "16/8/23 3:34",
+    "pO2 [%]": 96.83,
+    "Temperatur [°C]": 24.4894,
+    "pH-Wert": 6.2566,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 11,
+    "Minuten nach Start": 660
+  },
+  {
+    "Zeit": "16/8/23 3:49",
+    "pO2 [%]": 96.41,
+    "Temperatur [°C]": 24.4894,
+    "pH-Wert": 6.2566,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 11,
+    "Minuten nach Start": 675
+  },
+  {
+    "Zeit": "16/8/23 4:04",
+    "pO2 [%]": 96.19,
+    "Temperatur [°C]": 24.4252,
+    "pH-Wert": 6.2566,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 12,
+    "Minuten nach Start": 690
+  },
+  {
+    "Zeit": "16/8/23 4:19",
+    "pO2 [%]": 96.41,
+    "Temperatur [°C]": 24.4252,
+    "pH-Wert": 6.2699,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 12,
+    "Minuten nach Start": 705
+  },
+  {
+    "Zeit": "16/8/23 4:34",
+    "pO2 [%]": 95.56,
+    "Temperatur [°C]": 24.3609,
+    "pH-Wert": 6.2699,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 12,
+    "Minuten nach Start": 720
+  },
+  {
+    "Zeit": "16/8/23 4:49",
+    "pO2 [%]": 94.82,
+    "Temperatur [°C]": 24.3609,
+    "pH-Wert": 6.2699,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 12,
+    "Minuten nach Start": 735
+  },
+  {
+    "Zeit": "16/8/23 5:04",
+    "pO2 [%]": 95.03,
+    "Temperatur [°C]": 24.3609,
+    "pH-Wert": 6.2699,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 13,
+    "Minuten nach Start": 750
+  },
+  {
+    "Zeit": "16/8/23 5:19",
+    "pO2 [%]": 94.29,
+    "Temperatur [°C]": 24.2966,
+    "pH-Wert": 6.2965,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 13,
+    "Minuten nach Start": 765
+  },
+  {
+    "Zeit": "16/8/23 5:34",
+    "pO2 [%]": 93.45,
+    "Temperatur [°C]": 24.2966,
+    "pH-Wert": 6.2965,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 13,
+    "Minuten nach Start": 780
+  },
+  {
+    "Zeit": "16/8/23 5:49",
+    "pO2 [%]": 93.97,
+    "Temperatur [°C]": 24.2966,
+    "pH-Wert": 6.3097,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 13,
+    "Minuten nach Start": 795
+  },
+  {
+    "Zeit": "16/8/23 6:04",
+    "pO2 [%]": 93.34,
+    "Temperatur [°C]": 24.2324,
+    "pH-Wert": 6.3097,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 14,
+    "Minuten nach Start": 810
+  },
+  {
+    "Zeit": "16/8/23 6:19",
+    "pO2 [%]": 92.28,
+    "Temperatur [°C]": 24.2324,
+    "pH-Wert": 6.3097,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 14,
+    "Minuten nach Start": 825
+  },
+  {
+    "Zeit": "16/8/23 6:34",
+    "pO2 [%]": 91.97,
+    "Temperatur [°C]": 24.2324,
+    "pH-Wert": 6.323,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 14,
+    "Minuten nach Start": 840
+  },
+  {
+    "Zeit": "16/8/23 6:49",
+    "pO2 [%]": 91.23,
+    "Temperatur [°C]": 24.1681,
+    "pH-Wert": 6.3496,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 14,
+    "Minuten nach Start": 855
+  },
+  {
+    "Zeit": "16/8/23 7:04",
+    "pO2 [%]": 90.17,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 6.3628,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 15,
+    "Minuten nach Start": 870
+  },
+  {
+    "Zeit": "16/8/23 7:19",
+    "pO2 [%]": 90.06,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 6.3761,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 15,
+    "Minuten nach Start": 885
+  },
+  {
+    "Zeit": "16/8/23 7:34",
+    "pO2 [%]": 90.06,
+    "Temperatur [°C]": 23.7825,
+    "pH-Wert": 6.4027,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 15,
+    "Minuten nach Start": 900
+  },
+  {
+    "Zeit": "16/8/23 7:49",
+    "pO2 [%]": 88.58,
+    "Temperatur [°C]": 23.654,
+    "pH-Wert": 6.4159,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 15,
+    "Minuten nach Start": 915
+  },
+  {
+    "Zeit": "16/8/23 8:04",
+    "pO2 [%]": 87.53,
+    "Temperatur [°C]": 23.5897,
+    "pH-Wert": 6.4027,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 16,
+    "Minuten nach Start": 930
+  },
+  {
+    "Zeit": "16/8/23 8:19",
+    "pO2 [%]": 86.79,
+    "Temperatur [°C]": 23.654,
+    "pH-Wert": 6.4027,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 16,
+    "Minuten nach Start": 945
+  },
+  {
+    "Zeit": "16/8/23 8:34",
+    "pO2 [%]": 85.2,
+    "Temperatur [°C]": 23.7182,
+    "pH-Wert": 6.4159,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 16,
+    "Minuten nach Start": 960
+  },
+  {
+    "Zeit": "16/8/23 8:49",
+    "pO2 [%]": 84.99,
+    "Temperatur [°C]": 23.7182,
+    "pH-Wert": 6.4159,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 16,
+    "Minuten nach Start": 975
+  },
+  {
+    "Zeit": "16/8/23 9:04",
+    "pO2 [%]": 83.93,
+    "Temperatur [°C]": 23.7825,
+    "pH-Wert": 6.4159,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 17,
+    "Minuten nach Start": 990
+  },
+  {
+    "Zeit": "16/8/23 9:19",
+    "pO2 [%]": 83.51,
+    "Temperatur [°C]": 23.7825,
+    "pH-Wert": 6.4027,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 17,
+    "Minuten nach Start": 1005
+  },
+  {
+    "Zeit": "16/8/23 9:34",
+    "pO2 [%]": 82.03,
+    "Temperatur [°C]": 23.8468,
+    "pH-Wert": 6.4159,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 17,
+    "Minuten nach Start": 1020
+  },
+  {
+    "Zeit": "16/8/23 9:49",
+    "pO2 [%]": 81.4,
+    "Temperatur [°C]": 23.8468,
+    "pH-Wert": 6.3894,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 17,
+    "Minuten nach Start": 1035
+  },
+  {
+    "Zeit": "16/8/23 10:04",
+    "pO2 [%]": 80.87,
+    "Temperatur [°C]": 23.8468,
+    "pH-Wert": 6.3894,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 18,
+    "Minuten nach Start": 1050
+  },
+  {
+    "Zeit": "16/8/23 10:19",
+    "pO2 [%]": 79.92,
+    "Temperatur [°C]": 23.8468,
+    "pH-Wert": 6.3894,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 18,
+    "Minuten nach Start": 1065
+  },
+  {
+    "Zeit": "16/8/23 10:34",
+    "pO2 [%]": 78.96,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 6.3894,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 18,
+    "Minuten nach Start": 1080
+  },
+  {
+    "Zeit": "16/8/23 10:49",
+    "pO2 [%]": 76.85,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 6.3628,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 18,
+    "Minuten nach Start": 1095
+  },
+  {
+    "Zeit": "16/8/23 11:04",
+    "pO2 [%]": 76.43,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 6.3496,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 19,
+    "Minuten nach Start": 1110
+  },
+  {
+    "Zeit": "16/8/23 11:19",
+    "pO2 [%]": 75.79,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 6.3496,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 19,
+    "Minuten nach Start": 1125
+  },
+  {
+    "Zeit": "16/8/23 11:34",
+    "pO2 [%]": 73.78,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 6.323,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 19,
+    "Minuten nach Start": 1140
+  },
+  {
+    "Zeit": "16/8/23 11:49",
+    "pO2 [%]": 73.04,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 6.3363,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 19,
+    "Minuten nach Start": 1155
+  },
+  {
+    "Zeit": "16/8/23 12:04",
+    "pO2 [%]": 71.67,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 6.3097,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 20,
+    "Minuten nach Start": 1170
+  },
+  {
+    "Zeit": "16/8/23 12:19",
+    "pO2 [%]": 70.19,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 6.2832,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 20,
+    "Minuten nach Start": 1185
+  },
+  {
+    "Zeit": "16/8/23 12:34",
+    "pO2 [%]": 69.34,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 6.2699,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 20,
+    "Minuten nach Start": 1200
+  },
+  {
+    "Zeit": "16/8/23 12:49",
+    "pO2 [%]": 67.34,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 6.2832,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 20,
+    "Minuten nach Start": 1215
+  },
+  {
+    "Zeit": "16/8/23 13:04",
+    "pO2 [%]": 66.38,
+    "Temperatur [°C]": 24.2324,
+    "pH-Wert": 6.2434,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 21,
+    "Minuten nach Start": 1230
+  },
+  {
+    "Zeit": "16/8/23 13:19",
+    "pO2 [%]": 66.38,
+    "Temperatur [°C]": 24.1681,
+    "pH-Wert": 6.2168,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 21,
+    "Minuten nach Start": 1245
+  },
+  {
+    "Zeit": "16/8/23 13:34",
+    "pO2 [%]": 64.06,
+    "Temperatur [°C]": 24.2966,
+    "pH-Wert": 6.2035,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 21,
+    "Minuten nach Start": 1260
+  },
+  {
+    "Zeit": "16/8/23 13:49",
+    "pO2 [%]": 62.69,
+    "Temperatur [°C]": 24.3609,
+    "pH-Wert": 6.177,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 21,
+    "Minuten nach Start": 1275
+  },
+  {
+    "Zeit": "16/8/23 14:04",
+    "pO2 [%]": 60.99,
+    "Temperatur [°C]": 24.4252,
+    "pH-Wert": 6.1372,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 22,
+    "Minuten nach Start": 1290
+  },
+  {
+    "Zeit": "16/8/23 14:19",
+    "pO2 [%]": 59.41,
+    "Temperatur [°C]": 24.5537,
+    "pH-Wert": 6.1239,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 22,
+    "Minuten nach Start": 1305
+  },
+  {
+    "Zeit": "16/8/23 14:34",
+    "pO2 [%]": 59.2,
+    "Temperatur [°C]": 24.4894,
+    "pH-Wert": 6.0708,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 22,
+    "Minuten nach Start": 1320
+  },
+  {
+    "Zeit": "16/8/23 14:49",
+    "pO2 [%]": 58.35,
+    "Temperatur [°C]": 24.4894,
+    "pH-Wert": 6.031,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 22,
+    "Minuten nach Start": 1335
+  },
+  {
+    "Zeit": "16/8/23 15:04",
+    "pO2 [%]": 58.35,
+    "Temperatur [°C]": 24.4252,
+    "pH-Wert": 5.9912,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 23,
+    "Minuten nach Start": 1350
+  },
+  {
+    "Zeit": "16/8/23 15:19",
+    "pO2 [%]": 58.03,
+    "Temperatur [°C]": 24.3609,
+    "pH-Wert": 5.9513,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 23,
+    "Minuten nach Start": 1365
+  },
+  {
+    "Zeit": "16/8/23 15:34",
+    "pO2 [%]": 55.5,
+    "Temperatur [°C]": 24.3609,
+    "pH-Wert": 5.9115,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 23,
+    "Minuten nach Start": 1380
+  },
+  {
+    "Zeit": "16/8/23 15:49",
+    "pO2 [%]": 55.18,
+    "Temperatur [°C]": 24.2966,
+    "pH-Wert": 5.8717,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 23,
+    "Minuten nach Start": 1395
+  },
+  {
+    "Zeit": "16/8/23 16:04",
+    "pO2 [%]": 53.28,
+    "Temperatur [°C]": 24.2324,
+    "pH-Wert": 5.8319,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 24,
+    "Minuten nach Start": 1410
+  },
+  {
+    "Zeit": "16/8/23 16:19",
+    "pO2 [%]": 51.8,
+    "Temperatur [°C]": 24.2324,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 24,
+    "Minuten nach Start": 1425
+  },
+  {
+    "Zeit": "16/8/23 16:34",
+    "pO2 [%]": 52.54,
+    "Temperatur [°C]": 24.1681,
+    "pH-Wert": 5.7522,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 24,
+    "Minuten nach Start": 1440
+  },
+  {
+    "Zeit": "16/8/23 16:49",
+    "pO2 [%]": 50.32,
+    "Temperatur [°C]": 24.1681,
+    "pH-Wert": 5.7257,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 24,
+    "Minuten nach Start": 1455
+  },
+  {
+    "Zeit": "16/8/23 17:04",
+    "pO2 [%]": 51.06,
+    "Temperatur [°C]": 24.1681,
+    "pH-Wert": 5.6726,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 25,
+    "Minuten nach Start": 1470
+  },
+  {
+    "Zeit": "16/8/23 17:19",
+    "pO2 [%]": 50,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.6593,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 25,
+    "Minuten nach Start": 1485
+  },
+  {
+    "Zeit": "16/8/23 17:34",
+    "pO2 [%]": 49.47,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.6195,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 25,
+    "Minuten nach Start": 1500
+  },
+  {
+    "Zeit": "16/8/23 17:49",
+    "pO2 [%]": 50,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.5664,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 25,
+    "Minuten nach Start": 1515
+  },
+  {
+    "Zeit": "16/8/23 18:04",
+    "pO2 [%]": 48.52,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.5664,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 26,
+    "Minuten nach Start": 1530
+  },
+  {
+    "Zeit": "16/8/23 18:19",
+    "pO2 [%]": 49.05,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.5133,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 26,
+    "Minuten nach Start": 1545
+  },
+  {
+    "Zeit": "16/8/23 18:34",
+    "pO2 [%]": 49.68,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.4867,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 26,
+    "Minuten nach Start": 1560
+  },
+  {
+    "Zeit": "16/8/23 18:49",
+    "pO2 [%]": 47.36,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.4602,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 26,
+    "Minuten nach Start": 1575
+  },
+  {
+    "Zeit": "16/8/23 19:04",
+    "pO2 [%]": 48.63,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.4204,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 27,
+    "Minuten nach Start": 1590
+  },
+  {
+    "Zeit": "16/8/23 19:19",
+    "pO2 [%]": 47.99,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.4071,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 27,
+    "Minuten nach Start": 1605
+  },
+  {
+    "Zeit": "16/8/23 19:34",
+    "pO2 [%]": 48.52,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.3938,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 27,
+    "Minuten nach Start": 1620
+  },
+  {
+    "Zeit": "16/8/23 19:49",
+    "pO2 [%]": 48.41,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.354,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 27,
+    "Minuten nach Start": 1635
+  },
+  {
+    "Zeit": "16/8/23 20:04",
+    "pO2 [%]": 47.15,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.3274,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 28,
+    "Minuten nach Start": 1650
+  },
+  {
+    "Zeit": "16/8/23 20:19",
+    "pO2 [%]": 47.67,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.3142,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 28,
+    "Minuten nach Start": 1665
+  },
+  {
+    "Zeit": "16/8/23 20:34",
+    "pO2 [%]": 48.63,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.2876,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 28,
+    "Minuten nach Start": 1680
+  },
+  {
+    "Zeit": "16/8/23 20:49",
+    "pO2 [%]": 47.25,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.2743,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 28,
+    "Minuten nach Start": 1695
+  },
+  {
+    "Zeit": "16/8/23 21:04",
+    "pO2 [%]": 47.67,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.2478,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 29,
+    "Minuten nach Start": 1710
+  },
+  {
+    "Zeit": "16/8/23 21:19",
+    "pO2 [%]": 48.73,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.2478,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 29,
+    "Minuten nach Start": 1725
+  },
+  {
+    "Zeit": "16/8/23 21:34",
+    "pO2 [%]": 47.89,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.208,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 29,
+    "Minuten nach Start": 1740
+  },
+  {
+    "Zeit": "16/8/23 21:49",
+    "pO2 [%]": 48.31,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.1947,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 29,
+    "Minuten nach Start": 1755
+  },
+  {
+    "Zeit": "16/8/23 22:04",
+    "pO2 [%]": 47.89,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.1549,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 30,
+    "Minuten nach Start": 1770
+  },
+  {
+    "Zeit": "16/8/23 22:19",
+    "pO2 [%]": 46.62,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.1549,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 30,
+    "Minuten nach Start": 1785
+  },
+  {
+    "Zeit": "16/8/23 22:34",
+    "pO2 [%]": 46.62,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.1416,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 30,
+    "Minuten nach Start": 1800
+  },
+  {
+    "Zeit": "16/8/23 22:49",
+    "pO2 [%]": 47.46,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.1416,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 30,
+    "Minuten nach Start": 1815
+  },
+  {
+    "Zeit": "16/8/23 23:04",
+    "pO2 [%]": 45.45,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.1416,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 31,
+    "Minuten nach Start": 1830
+  },
+  {
+    "Zeit": "16/8/23 23:19",
+    "pO2 [%]": 46.3,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.1416,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 31,
+    "Minuten nach Start": 1845
+  },
+  {
+    "Zeit": "16/8/23 23:34",
+    "pO2 [%]": 46.51,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.1416,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 31,
+    "Minuten nach Start": 1860
+  },
+  {
+    "Zeit": "16/8/23 23:49",
+    "pO2 [%]": 45.88,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.1283,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 31,
+    "Minuten nach Start": 1875
+  },
+  {
+    "Zeit": "17/8/23 0:04",
+    "pO2 [%]": 45.14,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.1283,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 32,
+    "Minuten nach Start": 1890
+  },
+  {
+    "Zeit": "17/8/23 0:19",
+    "pO2 [%]": 45.14,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.1416,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 32,
+    "Minuten nach Start": 1905
+  },
+  {
+    "Zeit": "17/8/23 0:34",
+    "pO2 [%]": 44.19,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.1416,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 32,
+    "Minuten nach Start": 1920
+  },
+  {
+    "Zeit": "17/8/23 0:49",
+    "pO2 [%]": 43.97,
+    "Temperatur [°C]": 23.8468,
+    "pH-Wert": 5.1283,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 32,
+    "Minuten nach Start": 1935
+  },
+  {
+    "Zeit": "17/8/23 1:04",
+    "pO2 [%]": 44.5,
+    "Temperatur [°C]": 23.7825,
+    "pH-Wert": 5.115,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 33,
+    "Minuten nach Start": 1950
+  },
+  {
+    "Zeit": "17/8/23 1:19",
+    "pO2 [%]": 42.71,
+    "Temperatur [°C]": 23.7825,
+    "pH-Wert": 5.1283,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 33,
+    "Minuten nach Start": 1965
+  },
+  {
+    "Zeit": "17/8/23 1:34",
+    "pO2 [%]": 42.6,
+    "Temperatur [°C]": 23.7182,
+    "pH-Wert": 5.1283,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 33,
+    "Minuten nach Start": 1980
+  },
+  {
+    "Zeit": "17/8/23 1:49",
+    "pO2 [%]": 43.13,
+    "Temperatur [°C]": 23.7182,
+    "pH-Wert": 5.115,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 33,
+    "Minuten nach Start": 1995
+  },
+  {
+    "Zeit": "17/8/23 2:04",
+    "pO2 [%]": 42.28,
+    "Temperatur [°C]": 23.7182,
+    "pH-Wert": 5.1018,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 34,
+    "Minuten nach Start": 2010
+  },
+  {
+    "Zeit": "17/8/23 2:19",
+    "pO2 [%]": 42.39,
+    "Temperatur [°C]": 23.654,
+    "pH-Wert": 5.115,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 34,
+    "Minuten nach Start": 2025
+  },
+  {
+    "Zeit": "17/8/23 2:34",
+    "pO2 [%]": 43.97,
+    "Temperatur [°C]": 23.5897,
+    "pH-Wert": 5.0885,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 34,
+    "Minuten nach Start": 2040
+  },
+  {
+    "Zeit": "17/8/23 2:49",
+    "pO2 [%]": 52.22,
+    "Temperatur [°C]": 23.5254,
+    "pH-Wert": 5.1018,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 34,
+    "Minuten nach Start": 2055
+  },
+  {
+    "Zeit": "17/8/23 3:04",
+    "pO2 [%]": 42.6,
+    "Temperatur [°C]": 23.4612,
+    "pH-Wert": 5.0885,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 35,
+    "Minuten nach Start": 2070
+  },
+  {
+    "Zeit": "17/8/23 3:19",
+    "pO2 [%]": 47.57,
+    "Temperatur [°C]": 23.5254,
+    "pH-Wert": 5.0752,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 35,
+    "Minuten nach Start": 2085
+  },
+  {
+    "Zeit": "17/8/23 3:34",
+    "pO2 [%]": 41.01,
+    "Temperatur [°C]": 23.5897,
+    "pH-Wert": 5.062,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 35,
+    "Minuten nach Start": 2100
+  },
+  {
+    "Zeit": "17/8/23 3:49",
+    "pO2 [%]": 36.68,
+    "Temperatur [°C]": 23.654,
+    "pH-Wert": 5.062,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 35,
+    "Minuten nach Start": 2115
+  },
+  {
+    "Zeit": "17/8/23 4:04",
+    "pO2 [%]": 38.58,
+    "Temperatur [°C]": 23.7182,
+    "pH-Wert": 5.0487,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 36,
+    "Minuten nach Start": 2130
+  },
+  {
+    "Zeit": "17/8/23 4:19",
+    "pO2 [%]": 37.21,
+    "Temperatur [°C]": 23.7182,
+    "pH-Wert": 5.0487,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 36,
+    "Minuten nach Start": 2145
+  },
+  {
+    "Zeit": "17/8/23 4:34",
+    "pO2 [%]": 28.54,
+    "Temperatur [°C]": 23.7825,
+    "pH-Wert": 5.0221,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 36,
+    "Minuten nach Start": 2160
+  },
+  {
+    "Zeit": "17/8/23 4:49",
+    "pO2 [%]": 40.7,
+    "Temperatur [°C]": 23.7825,
+    "pH-Wert": 5.0354,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 36,
+    "Minuten nach Start": 2175
+  },
+  {
+    "Zeit": "17/8/23 5:04",
+    "pO2 [%]": 37.21,
+    "Temperatur [°C]": 23.8468,
+    "pH-Wert": 5.0221,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 37,
+    "Minuten nach Start": 2190
+  },
+  {
+    "Zeit": "17/8/23 5:19",
+    "pO2 [%]": 37,
+    "Temperatur [°C]": 23.8468,
+    "pH-Wert": 5.0221,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 37,
+    "Minuten nach Start": 2205
+  },
+  {
+    "Zeit": "17/8/23 5:34",
+    "pO2 [%]": 40.27,
+    "Temperatur [°C]": 23.7825,
+    "pH-Wert": 5.0089,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 37,
+    "Minuten nach Start": 2220
+  },
+  {
+    "Zeit": "17/8/23 5:49",
+    "pO2 [%]": 54.65,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 4.9956,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 37,
+    "Minuten nach Start": 2235
+  },
+  {
+    "Zeit": "17/8/23 6:04",
+    "pO2 [%]": 29.28,
+    "Temperatur [°C]": 23.8468,
+    "pH-Wert": 4.9956,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 38,
+    "Minuten nach Start": 2250
+  },
+  {
+    "Zeit": "17/8/23 6:19",
+    "pO2 [%]": 24.1,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 4.9823,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 38,
+    "Minuten nach Start": 2265
+  },
+  {
+    "Zeit": "17/8/23 6:34",
+    "pO2 [%]": 27.59,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 4.9558,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 38,
+    "Minuten nach Start": 2280
+  },
+  {
+    "Zeit": "17/8/23 6:49",
+    "pO2 [%]": 26.96,
+    "Temperatur [°C]": 23.8468,
+    "pH-Wert": 4.9425,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 38,
+    "Minuten nach Start": 2295
+  },
+  {
+    "Zeit": "17/8/23 7:04",
+    "pO2 [%]": 26.53,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 4.9159,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 39,
+    "Minuten nach Start": 2310
+  },
+  {
+    "Zeit": "17/8/23 7:19",
+    "pO2 [%]": 57.93,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 4.9159,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 39,
+    "Minuten nach Start": 2325
+  },
+  {
+    "Zeit": "17/8/23 7:34",
+    "pO2 [%]": 48.84,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 4.9558,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 39,
+    "Minuten nach Start": 2340
+  },
+  {
+    "Zeit": "17/8/23 7:49",
+    "pO2 [%]": 86.79,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 4.969,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 39,
+    "Minuten nach Start": 2355
+  },
+  {
+    "Zeit": "17/8/23 8:04",
+    "pO2 [%]": 65.75,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.0089,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 40,
+    "Minuten nach Start": 2370
+  },
+  {
+    "Zeit": "17/8/23 8:19",
+    "pO2 [%]": 92.39,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.0221,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 40,
+    "Minuten nach Start": 2385
+  },
+  {
+    "Zeit": "17/8/23 8:34",
+    "pO2 [%]": 65.43,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.0487,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 40,
+    "Minuten nach Start": 2400
+  },
+  {
+    "Zeit": "17/8/23 8:49",
+    "pO2 [%]": 85.94,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.0752,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 40,
+    "Minuten nach Start": 2415
+  },
+  {
+    "Zeit": "17/8/23 9:04",
+    "pO2 [%]": 83.83,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.0885,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 41,
+    "Minuten nach Start": 2430
+  },
+  {
+    "Zeit": "17/8/23 9:19",
+    "pO2 [%]": 64.69,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.0885,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 41,
+    "Minuten nach Start": 2445
+  },
+  {
+    "Zeit": "17/8/23 9:34",
+    "pO2 [%]": 40.06,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.0885,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 41,
+    "Minuten nach Start": 2460
+  },
+  {
+    "Zeit": "17/8/23 9:49",
+    "pO2 [%]": 28.65,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.1018,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 41,
+    "Minuten nach Start": 2475
+  },
+  {
+    "Zeit": "17/8/23 10:04",
+    "pO2 [%]": 33.4,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.1018,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 42,
+    "Minuten nach Start": 2490
+  },
+  {
+    "Zeit": "17/8/23 10:19",
+    "pO2 [%]": 39.32,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.115,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 42,
+    "Minuten nach Start": 2505
+  },
+  {
+    "Zeit": "17/8/23 10:34",
+    "pO2 [%]": 27.17,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.1283,
+    "Rührerdrehzahl [rpm]": 170,
+    "Timestamp": 42,
+    "Minuten nach Start": 2520
+  },
+  {
+    "Zeit": "17/8/23 10:49",
+    "pO2 [%]": 52.54,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.885,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 42,
+    "Minuten nach Start": 2535
+  },
+  {
+    "Zeit": "17/8/23 11:04",
+    "pO2 [%]": 61.63,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.8451,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 43,
+    "Minuten nach Start": 2550
+  },
+  {
+    "Zeit": "17/8/23 11:19",
+    "pO2 [%]": 64.06,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8451,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 43,
+    "Minuten nach Start": 2565
+  },
+  {
+    "Zeit": "17/8/23 11:34",
+    "pO2 [%]": 67.12,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8319,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 43,
+    "Minuten nach Start": 2580
+  },
+  {
+    "Zeit": "17/8/23 11:49",
+    "pO2 [%]": 66.81,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.8186,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 43,
+    "Minuten nach Start": 2595
+  },
+  {
+    "Zeit": "17/8/23 12:04",
+    "pO2 [%]": 68.29,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.8319,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 44,
+    "Minuten nach Start": 2610
+  },
+  {
+    "Zeit": "17/8/23 12:19",
+    "pO2 [%]": 69.87,
+    "Temperatur [°C]": 24.1681,
+    "pH-Wert": 5.8186,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 44,
+    "Minuten nach Start": 2625
+  },
+  {
+    "Zeit": "17/8/23 12:34",
+    "pO2 [%]": 73.36,
+    "Temperatur [°C]": 24.2324,
+    "pH-Wert": 5.8186,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 44,
+    "Minuten nach Start": 2640
+  },
+  {
+    "Zeit": "17/8/23 12:49",
+    "pO2 [%]": 69.77,
+    "Temperatur [°C]": 24.2324,
+    "pH-Wert": 5.8053,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 44,
+    "Minuten nach Start": 2655
+  },
+  {
+    "Zeit": "17/8/23 13:04",
+    "pO2 [%]": 74.31,
+    "Temperatur [°C]": 24.2966,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 45,
+    "Minuten nach Start": 2670
+  },
+  {
+    "Zeit": "17/8/23 13:19",
+    "pO2 [%]": 73.26,
+    "Temperatur [°C]": 24.3609,
+    "pH-Wert": 5.7389,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 45,
+    "Minuten nach Start": 2685
+  },
+  {
+    "Zeit": "17/8/23 13:34",
+    "pO2 [%]": 72.94,
+    "Temperatur [°C]": 24.4252,
+    "pH-Wert": 5.6726,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 45,
+    "Minuten nach Start": 2700
+  },
+  {
+    "Zeit": "17/8/23 13:49",
+    "pO2 [%]": 72.62,
+    "Temperatur [°C]": 24.4894,
+    "pH-Wert": 5.646,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 45,
+    "Minuten nach Start": 2715
+  },
+  {
+    "Zeit": "17/8/23 14:04",
+    "pO2 [%]": 69.56,
+    "Temperatur [°C]": 24.618,
+    "pH-Wert": 5.6062,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 46,
+    "Minuten nach Start": 2730
+  },
+  {
+    "Zeit": "17/8/23 14:19",
+    "pO2 [%]": 64.59,
+    "Temperatur [°C]": 24.4894,
+    "pH-Wert": 5.5531,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 46,
+    "Minuten nach Start": 2745
+  },
+  {
+    "Zeit": "17/8/23 14:34",
+    "pO2 [%]": 68.39,
+    "Temperatur [°C]": 24.4252,
+    "pH-Wert": 5.4867,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 46,
+    "Minuten nach Start": 2760
+  },
+  {
+    "Zeit": "17/8/23 14:49",
+    "pO2 [%]": 43.23,
+    "Temperatur [°C]": 24.4252,
+    "pH-Wert": 5.8584,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 46,
+    "Minuten nach Start": 2775
+  },
+  {
+    "Zeit": "17/8/23 15:04",
+    "pO2 [%]": 32.66,
+    "Temperatur [°C]": 24.3609,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 47,
+    "Minuten nach Start": 2790
+  },
+  {
+    "Zeit": "17/8/23 15:19",
+    "pO2 [%]": 30.34,
+    "Temperatur [°C]": 24.2966,
+    "pH-Wert": 5.7389,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 47,
+    "Minuten nach Start": 2805
+  },
+  {
+    "Zeit": "17/8/23 15:34",
+    "pO2 [%]": 28.65,
+    "Temperatur [°C]": 24.2966,
+    "pH-Wert": 5.6858,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 47,
+    "Minuten nach Start": 2820
+  },
+  {
+    "Zeit": "17/8/23 15:49",
+    "pO2 [%]": 30.34,
+    "Temperatur [°C]": 24.2324,
+    "pH-Wert": 5.6726,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 47,
+    "Minuten nach Start": 2835
+  },
+  {
+    "Zeit": "17/8/23 16:04",
+    "pO2 [%]": 30.23,
+    "Temperatur [°C]": 24.2966,
+    "pH-Wert": 5.646,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 48,
+    "Minuten nach Start": 2850
+  },
+  {
+    "Zeit": "17/8/23 16:19",
+    "pO2 [%]": 32.35,
+    "Temperatur [°C]": 24.1681,
+    "pH-Wert": 5.6062,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 48,
+    "Minuten nach Start": 2865
+  },
+  {
+    "Zeit": "17/8/23 16:34",
+    "pO2 [%]": 33.83,
+    "Temperatur [°C]": 24.1681,
+    "pH-Wert": 5.5929,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 48,
+    "Minuten nach Start": 2880
+  },
+  {
+    "Zeit": "17/8/23 16:49",
+    "pO2 [%]": 44.08,
+    "Temperatur [°C]": 24.1681,
+    "pH-Wert": 5.5531,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 48,
+    "Minuten nach Start": 2895
+  },
+  {
+    "Zeit": "17/8/23 17:04",
+    "pO2 [%]": 38.37,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.5133,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 49,
+    "Minuten nach Start": 2910
+  },
+  {
+    "Zeit": "17/8/23 17:19",
+    "pO2 [%]": 53.07,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.5,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 49,
+    "Minuten nach Start": 2925
+  },
+  {
+    "Zeit": "17/8/23 17:34",
+    "pO2 [%]": 43.23,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.4602,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 49,
+    "Minuten nach Start": 2940
+  },
+  {
+    "Zeit": "17/8/23 17:49",
+    "pO2 [%]": 49.79,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.4336,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 49,
+    "Minuten nach Start": 2955
+  },
+  {
+    "Zeit": "17/8/23 18:04",
+    "pO2 [%]": 57.61,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.4204,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 50,
+    "Minuten nach Start": 2970
+  },
+  {
+    "Zeit": "17/8/23 18:19",
+    "pO2 [%]": 77.06,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.3938,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 50,
+    "Minuten nach Start": 2985
+  },
+  {
+    "Zeit": "17/8/23 18:34",
+    "pO2 [%]": 65.64,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.3938,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 50,
+    "Minuten nach Start": 3000
+  },
+  {
+    "Zeit": "17/8/23 18:49",
+    "pO2 [%]": 62.16,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.3938,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 50,
+    "Minuten nach Start": 3015
+  },
+  {
+    "Zeit": "17/8/23 19:04",
+    "pO2 [%]": 79.28,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.3938,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 51,
+    "Minuten nach Start": 3030
+  },
+  {
+    "Zeit": "17/8/23 19:19",
+    "pO2 [%]": 68.08,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.3938,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 51,
+    "Minuten nach Start": 3045
+  },
+  {
+    "Zeit": "17/8/23 19:34",
+    "pO2 [%]": 77.59,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.3805,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 51,
+    "Minuten nach Start": 3060
+  },
+  {
+    "Zeit": "17/8/23 19:49",
+    "pO2 [%]": 69.45,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.3805,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 51,
+    "Minuten nach Start": 3075
+  },
+  {
+    "Zeit": "17/8/23 20:04",
+    "pO2 [%]": 71.25,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.3805,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 52,
+    "Minuten nach Start": 3090
+  },
+  {
+    "Zeit": "17/8/23 20:19",
+    "pO2 [%]": 73.68,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.3805,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 52,
+    "Minuten nach Start": 3105
+  },
+  {
+    "Zeit": "17/8/23 20:34",
+    "pO2 [%]": 73.04,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.3673,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 52,
+    "Minuten nach Start": 3120
+  },
+  {
+    "Zeit": "17/8/23 20:49",
+    "pO2 [%]": 77.8,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.354,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 52,
+    "Minuten nach Start": 3135
+  },
+  {
+    "Zeit": "17/8/23 21:04",
+    "pO2 [%]": 81.5,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.3407,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 53,
+    "Minuten nach Start": 3150
+  },
+  {
+    "Zeit": "17/8/23 21:19",
+    "pO2 [%]": 97.36,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.3274,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 53,
+    "Minuten nach Start": 3165
+  },
+  {
+    "Zeit": "17/8/23 21:34",
+    "pO2 [%]": 91.44,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.3274,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 53,
+    "Minuten nach Start": 3180
+  },
+  {
+    "Zeit": "17/8/23 21:49",
+    "pO2 [%]": 92.71,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.3274,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 53,
+    "Minuten nach Start": 3195
+  },
+  {
+    "Zeit": "17/8/23 22:04",
+    "pO2 [%]": 92.92,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.3142,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 54,
+    "Minuten nach Start": 3210
+  },
+  {
+    "Zeit": "17/8/23 22:19",
+    "pO2 [%]": 93.13,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.3274,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 54,
+    "Minuten nach Start": 3225
+  },
+  {
+    "Zeit": "17/8/23 22:34",
+    "pO2 [%]": 89.75,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.3274,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 54,
+    "Minuten nach Start": 3240
+  },
+  {
+    "Zeit": "17/8/23 22:49",
+    "pO2 [%]": 80.23,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.3274,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 54,
+    "Minuten nach Start": 3255
+  },
+  {
+    "Zeit": "17/8/23 23:04",
+    "pO2 [%]": 83.72,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.3274,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 55,
+    "Minuten nach Start": 3270
+  },
+  {
+    "Zeit": "17/8/23 23:19",
+    "pO2 [%]": 78.22,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.3274,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 55,
+    "Minuten nach Start": 3285
+  },
+  {
+    "Zeit": "17/8/23 23:34",
+    "pO2 [%]": 78.65,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.3274,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 55,
+    "Minuten nach Start": 3300
+  },
+  {
+    "Zeit": "17/8/23 23:49",
+    "pO2 [%]": 85.2,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.3407,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 55,
+    "Minuten nach Start": 3315
+  },
+  {
+    "Zeit": "18/8/23 0:04",
+    "pO2 [%]": 75.69,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.3407,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 56,
+    "Minuten nach Start": 3330
+  },
+  {
+    "Zeit": "18/8/23 0:19",
+    "pO2 [%]": 78.96,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.354,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 56,
+    "Minuten nach Start": 3345
+  },
+  {
+    "Zeit": "18/8/23 0:34",
+    "pO2 [%]": 78.54,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.354,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 56,
+    "Minuten nach Start": 3360
+  },
+  {
+    "Zeit": "18/8/23 0:49",
+    "pO2 [%]": 85.94,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.354,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 56,
+    "Minuten nach Start": 3375
+  },
+  {
+    "Zeit": "18/8/23 1:04",
+    "pO2 [%]": 84.25,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.3805,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 57,
+    "Minuten nach Start": 3390
+  },
+  {
+    "Zeit": "18/8/23 1:19",
+    "pO2 [%]": 77.91,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.3805,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 57,
+    "Minuten nach Start": 3405
+  },
+  {
+    "Zeit": "18/8/23 1:34",
+    "pO2 [%]": 77.38,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.3805,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 57,
+    "Minuten nach Start": 3420
+  },
+  {
+    "Zeit": "18/8/23 1:49",
+    "pO2 [%]": 79.92,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.3938,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 57,
+    "Minuten nach Start": 3435
+  },
+  {
+    "Zeit": "18/8/23 2:04",
+    "pO2 [%]": 81.5,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.4071,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 58,
+    "Minuten nach Start": 3450
+  },
+  {
+    "Zeit": "18/8/23 2:19",
+    "pO2 [%]": 75.79,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.4071,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 58,
+    "Minuten nach Start": 3465
+  },
+  {
+    "Zeit": "18/8/23 2:34",
+    "pO2 [%]": 83.4,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.4071,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 58,
+    "Minuten nach Start": 3480
+  },
+  {
+    "Zeit": "18/8/23 2:49",
+    "pO2 [%]": 70.19,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.4204,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 58,
+    "Minuten nach Start": 3495
+  },
+  {
+    "Zeit": "18/8/23 3:04",
+    "pO2 [%]": 68.18,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.4336,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 59,
+    "Minuten nach Start": 3510
+  },
+  {
+    "Zeit": "18/8/23 3:19",
+    "pO2 [%]": 64.48,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.4204,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 59,
+    "Minuten nach Start": 3525
+  },
+  {
+    "Zeit": "18/8/23 3:34",
+    "pO2 [%]": 61.73,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.4469,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 59,
+    "Minuten nach Start": 3540
+  },
+  {
+    "Zeit": "18/8/23 3:49",
+    "pO2 [%]": 53.07,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.4469,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 59,
+    "Minuten nach Start": 3555
+  },
+  {
+    "Zeit": "18/8/23 4:04",
+    "pO2 [%]": 49.15,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.4469,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 60,
+    "Minuten nach Start": 3570
+  },
+  {
+    "Zeit": "18/8/23 4:19",
+    "pO2 [%]": 47.78,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.4469,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 60,
+    "Minuten nach Start": 3585
+  },
+  {
+    "Zeit": "18/8/23 4:34",
+    "pO2 [%]": 46.62,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.4469,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 60,
+    "Minuten nach Start": 3600
+  },
+  {
+    "Zeit": "18/8/23 4:49",
+    "pO2 [%]": 42.81,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.4469,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 60,
+    "Minuten nach Start": 3615
+  },
+  {
+    "Zeit": "18/8/23 5:04",
+    "pO2 [%]": 37.21,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.4469,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 61,
+    "Minuten nach Start": 3630
+  },
+  {
+    "Zeit": "18/8/23 5:19",
+    "pO2 [%]": 35.2,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.4602,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 61,
+    "Minuten nach Start": 3645
+  },
+  {
+    "Zeit": "18/8/23 5:34",
+    "pO2 [%]": 34.36,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.4469,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 61,
+    "Minuten nach Start": 3660
+  },
+  {
+    "Zeit": "18/8/23 5:49",
+    "pO2 [%]": 32.03,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.4602,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 61,
+    "Minuten nach Start": 3675
+  },
+  {
+    "Zeit": "18/8/23 6:04",
+    "pO2 [%]": 27.48,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.4204,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 62,
+    "Minuten nach Start": 3690
+  },
+  {
+    "Zeit": "18/8/23 6:19",
+    "pO2 [%]": 24.74,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.4071,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 62,
+    "Minuten nach Start": 3705
+  },
+  {
+    "Zeit": "18/8/23 6:34",
+    "pO2 [%]": 25.79,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.3805,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 62,
+    "Minuten nach Start": 3720
+  },
+  {
+    "Zeit": "18/8/23 6:49",
+    "pO2 [%]": 25.16,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.3673,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 62,
+    "Minuten nach Start": 3735
+  },
+  {
+    "Zeit": "18/8/23 7:04",
+    "pO2 [%]": 22.83,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.3407,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 63,
+    "Minuten nach Start": 3750
+  },
+  {
+    "Zeit": "18/8/23 7:19",
+    "pO2 [%]": 21.88,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.354,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 63,
+    "Minuten nach Start": 3765
+  },
+  {
+    "Zeit": "18/8/23 7:34",
+    "pO2 [%]": 20.72,
+    "Temperatur [°C]": 23.8468,
+    "pH-Wert": 5.3407,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 63,
+    "Minuten nach Start": 3780
+  },
+  {
+    "Zeit": "18/8/23 7:49",
+    "pO2 [%]": 19.24,
+    "Temperatur [°C]": 23.7825,
+    "pH-Wert": 5.354,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 63,
+    "Minuten nach Start": 3795
+  },
+  {
+    "Zeit": "18/8/23 8:04",
+    "pO2 [%]": 17.55,
+    "Temperatur [°C]": 23.8468,
+    "pH-Wert": 5.3407,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 64,
+    "Minuten nach Start": 3810
+  },
+  {
+    "Zeit": "18/8/23 8:19",
+    "pO2 [%]": 16.81,
+    "Temperatur [°C]": 23.8468,
+    "pH-Wert": 5.354,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 64,
+    "Minuten nach Start": 3825
+  },
+  {
+    "Zeit": "18/8/23 8:34",
+    "pO2 [%]": 17.44,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.354,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 64,
+    "Minuten nach Start": 3840
+  },
+  {
+    "Zeit": "18/8/23 8:49",
+    "pO2 [%]": 15.64,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.3805,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 64,
+    "Minuten nach Start": 3855
+  },
+  {
+    "Zeit": "18/8/23 9:04",
+    "pO2 [%]": 13.95,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8053,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 65,
+    "Minuten nach Start": 3870
+  },
+  {
+    "Zeit": "18/8/23 9:19",
+    "pO2 [%]": 5.07,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 65,
+    "Minuten nach Start": 3885
+  },
+  {
+    "Zeit": "18/8/23 9:34",
+    "pO2 [%]": 2.64,
+    "Temperatur [°C]": 24.1681,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 65,
+    "Minuten nach Start": 3900
+  },
+  {
+    "Zeit": "18/8/23 9:49",
+    "pO2 [%]": 2.64,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 65,
+    "Minuten nach Start": 3915
+  },
+  {
+    "Zeit": "18/8/23 10:04",
+    "pO2 [%]": 2.54,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 66,
+    "Minuten nach Start": 3930
+  },
+  {
+    "Zeit": "18/8/23 10:19",
+    "pO2 [%]": 3.91,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 66,
+    "Minuten nach Start": 3945
+  },
+  {
+    "Zeit": "18/8/23 10:34",
+    "pO2 [%]": 4.33,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 66,
+    "Minuten nach Start": 3960
+  },
+  {
+    "Zeit": "18/8/23 10:49",
+    "pO2 [%]": 4.65,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 66,
+    "Minuten nach Start": 3975
+  },
+  {
+    "Zeit": "18/8/23 11:04",
+    "pO2 [%]": 4.02,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 67,
+    "Minuten nach Start": 3990
+  },
+  {
+    "Zeit": "18/8/23 11:19",
+    "pO2 [%]": 4.44,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 67,
+    "Minuten nach Start": 4005
+  },
+  {
+    "Zeit": "18/8/23 11:34",
+    "pO2 [%]": 5.18,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 67,
+    "Minuten nach Start": 4020
+  },
+  {
+    "Zeit": "18/8/23 11:49",
+    "pO2 [%]": 4.86,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 67,
+    "Minuten nach Start": 4035
+  },
+  {
+    "Zeit": "18/8/23 12:04",
+    "pO2 [%]": 3.07,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8319,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 68,
+    "Minuten nach Start": 4050
+  },
+  {
+    "Zeit": "18/8/23 12:19",
+    "pO2 [%]": 4.02,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8319,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 68,
+    "Minuten nach Start": 4065
+  },
+  {
+    "Zeit": "18/8/23 12:34",
+    "pO2 [%]": 4.23,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8053,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 68,
+    "Minuten nach Start": 4080
+  },
+  {
+    "Zeit": "18/8/23 12:49",
+    "pO2 [%]": 4.86,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 68,
+    "Minuten nach Start": 4095
+  },
+  {
+    "Zeit": "18/8/23 13:04",
+    "pO2 [%]": 5.29,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 69,
+    "Minuten nach Start": 4110
+  },
+  {
+    "Zeit": "18/8/23 13:19",
+    "pO2 [%]": 4.55,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7522,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 69,
+    "Minuten nach Start": 4125
+  },
+  {
+    "Zeit": "18/8/23 13:34",
+    "pO2 [%]": 5.07,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.8186,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 69,
+    "Minuten nach Start": 4140
+  },
+  {
+    "Zeit": "18/8/23 13:49",
+    "pO2 [%]": 5.6,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 69,
+    "Minuten nach Start": 4155
+  },
+  {
+    "Zeit": "18/8/23 14:04",
+    "pO2 [%]": 5.29,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 70,
+    "Minuten nach Start": 4170
+  },
+  {
+    "Zeit": "18/8/23 14:19",
+    "pO2 [%]": 4.86,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 70,
+    "Minuten nach Start": 4185
+  },
+  {
+    "Zeit": "18/8/23 14:34",
+    "pO2 [%]": 5.81,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 70,
+    "Minuten nach Start": 4200
+  },
+  {
+    "Zeit": "18/8/23 14:49",
+    "pO2 [%]": 5.07,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 70,
+    "Minuten nach Start": 4215
+  },
+  {
+    "Zeit": "18/8/23 15:04",
+    "pO2 [%]": 5.71,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 71,
+    "Minuten nach Start": 4230
+  },
+  {
+    "Zeit": "18/8/23 15:19",
+    "pO2 [%]": 4.76,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 71,
+    "Minuten nach Start": 4245
+  },
+  {
+    "Zeit": "18/8/23 15:34",
+    "pO2 [%]": 4.44,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7522,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 71,
+    "Minuten nach Start": 4260
+  },
+  {
+    "Zeit": "18/8/23 15:49",
+    "pO2 [%]": 5.29,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 71,
+    "Minuten nach Start": 4275
+  },
+  {
+    "Zeit": "18/8/23 16:04",
+    "pO2 [%]": 5.07,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 72,
+    "Minuten nach Start": 4290
+  },
+  {
+    "Zeit": "18/8/23 16:19",
+    "pO2 [%]": 5.92,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 72,
+    "Minuten nach Start": 4305
+  },
+  {
+    "Zeit": "18/8/23 16:34",
+    "pO2 [%]": 4.65,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 72,
+    "Minuten nach Start": 4320
+  },
+  {
+    "Zeit": "18/8/23 16:49",
+    "pO2 [%]": 4.55,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7522,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 72,
+    "Minuten nach Start": 4335
+  },
+  {
+    "Zeit": "18/8/23 17:04",
+    "pO2 [%]": 4.44,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 73,
+    "Minuten nach Start": 4350
+  },
+  {
+    "Zeit": "18/8/23 17:19",
+    "pO2 [%]": 4.76,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 73,
+    "Minuten nach Start": 4365
+  },
+  {
+    "Zeit": "18/8/23 17:34",
+    "pO2 [%]": 5.07,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 73,
+    "Minuten nach Start": 4380
+  },
+  {
+    "Zeit": "18/8/23 17:49",
+    "pO2 [%]": 4.97,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 73,
+    "Minuten nach Start": 4395
+  },
+  {
+    "Zeit": "18/8/23 18:04",
+    "pO2 [%]": 5.6,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 74,
+    "Minuten nach Start": 4410
+  },
+  {
+    "Zeit": "18/8/23 18:19",
+    "pO2 [%]": 6.24,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 74,
+    "Minuten nach Start": 4425
+  },
+  {
+    "Zeit": "18/8/23 18:34",
+    "pO2 [%]": 6.77,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 74,
+    "Minuten nach Start": 4440
+  },
+  {
+    "Zeit": "18/8/23 18:49",
+    "pO2 [%]": 7.61,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 74,
+    "Minuten nach Start": 4455
+  },
+  {
+    "Zeit": "18/8/23 19:04",
+    "pO2 [%]": 7.82,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 75,
+    "Minuten nach Start": 4470
+  },
+  {
+    "Zeit": "18/8/23 19:19",
+    "pO2 [%]": 8.25,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 75,
+    "Minuten nach Start": 4485
+  },
+  {
+    "Zeit": "18/8/23 19:34",
+    "pO2 [%]": 9.2,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 75,
+    "Minuten nach Start": 4500
+  },
+  {
+    "Zeit": "18/8/23 19:49",
+    "pO2 [%]": 10.25,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 75,
+    "Minuten nach Start": 4515
+  },
+  {
+    "Zeit": "18/8/23 20:04",
+    "pO2 [%]": 10.99,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 76,
+    "Minuten nach Start": 4530
+  },
+  {
+    "Zeit": "18/8/23 20:19",
+    "pO2 [%]": 11.42,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 76,
+    "Minuten nach Start": 4545
+  },
+  {
+    "Zeit": "18/8/23 20:34",
+    "pO2 [%]": 11.52,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 76,
+    "Minuten nach Start": 4560
+  },
+  {
+    "Zeit": "18/8/23 20:49",
+    "pO2 [%]": 11.73,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 76,
+    "Minuten nach Start": 4575
+  },
+  {
+    "Zeit": "18/8/23 21:04",
+    "pO2 [%]": 13,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 77,
+    "Minuten nach Start": 4590
+  },
+  {
+    "Zeit": "18/8/23 21:19",
+    "pO2 [%]": 13.21,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 77,
+    "Minuten nach Start": 4605
+  },
+  {
+    "Zeit": "18/8/23 21:34",
+    "pO2 [%]": 13.11,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7522,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 77,
+    "Minuten nach Start": 4620
+  },
+  {
+    "Zeit": "18/8/23 21:49",
+    "pO2 [%]": 13.53,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 77,
+    "Minuten nach Start": 4635
+  },
+  {
+    "Zeit": "18/8/23 22:04",
+    "pO2 [%]": 13.64,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 78,
+    "Minuten nach Start": 4650
+  },
+  {
+    "Zeit": "18/8/23 22:19",
+    "pO2 [%]": 14.8,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 78,
+    "Minuten nach Start": 4665
+  },
+  {
+    "Zeit": "18/8/23 22:34",
+    "pO2 [%]": 15.01,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 78,
+    "Minuten nach Start": 4680
+  },
+  {
+    "Zeit": "18/8/23 22:49",
+    "pO2 [%]": 15.64,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 78,
+    "Minuten nach Start": 4695
+  },
+  {
+    "Zeit": "18/8/23 23:04",
+    "pO2 [%]": 15.64,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 79,
+    "Minuten nach Start": 4710
+  },
+  {
+    "Zeit": "18/8/23 23:19",
+    "pO2 [%]": 15.64,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 79,
+    "Minuten nach Start": 4725
+  },
+  {
+    "Zeit": "18/8/23 23:34",
+    "pO2 [%]": 15.86,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7522,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 79,
+    "Minuten nach Start": 4740
+  },
+  {
+    "Zeit": "18/8/23 23:49",
+    "pO2 [%]": 15.64,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 79,
+    "Minuten nach Start": 4755
+  },
+  {
+    "Zeit": "19/8/23 0:04",
+    "pO2 [%]": 15.54,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 80,
+    "Minuten nach Start": 4770
+  },
+  {
+    "Zeit": "19/8/23 0:19",
+    "pO2 [%]": 16.07,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 80,
+    "Minuten nach Start": 4785
+  },
+  {
+    "Zeit": "19/8/23 0:34",
+    "pO2 [%]": 16.28,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 80,
+    "Minuten nach Start": 4800
+  },
+  {
+    "Zeit": "19/8/23 0:49",
+    "pO2 [%]": 16.07,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 80,
+    "Minuten nach Start": 4815
+  },
+  {
+    "Zeit": "19/8/23 1:04",
+    "pO2 [%]": 15.86,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 81,
+    "Minuten nach Start": 4830
+  },
+  {
+    "Zeit": "19/8/23 1:19",
+    "pO2 [%]": 15.64,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 81,
+    "Minuten nach Start": 4845
+  },
+  {
+    "Zeit": "19/8/23 1:34",
+    "pO2 [%]": 16.07,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8053,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 81,
+    "Minuten nach Start": 4860
+  },
+  {
+    "Zeit": "19/8/23 1:49",
+    "pO2 [%]": 16.17,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 81,
+    "Minuten nach Start": 4875
+  },
+  {
+    "Zeit": "19/8/23 2:04",
+    "pO2 [%]": 14.59,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.9513,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 82,
+    "Minuten nach Start": 4890
+  },
+  {
+    "Zeit": "19/8/23 2:19",
+    "pO2 [%]": 15.75,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.9381,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 82,
+    "Minuten nach Start": 4905
+  },
+  {
+    "Zeit": "19/8/23 2:34",
+    "pO2 [%]": 16.6,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.9248,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 82,
+    "Minuten nach Start": 4920
+  },
+  {
+    "Zeit": "19/8/23 2:49",
+    "pO2 [%]": 17.23,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.9115,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 82,
+    "Minuten nach Start": 4935
+  },
+  {
+    "Zeit": "19/8/23 3:04",
+    "pO2 [%]": 16.91,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.8982,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 83,
+    "Minuten nach Start": 4950
+  },
+  {
+    "Zeit": "19/8/23 3:19",
+    "pO2 [%]": 16.6,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.8982,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 83,
+    "Minuten nach Start": 4965
+  },
+  {
+    "Zeit": "19/8/23 3:34",
+    "pO2 [%]": 16.91,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.885,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 83,
+    "Minuten nach Start": 4980
+  },
+  {
+    "Zeit": "19/8/23 3:49",
+    "pO2 [%]": 16.91,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.885,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 83,
+    "Minuten nach Start": 4995
+  },
+  {
+    "Zeit": "19/8/23 4:04",
+    "pO2 [%]": 16.28,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.885,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 84,
+    "Minuten nach Start": 5010
+  },
+  {
+    "Zeit": "19/8/23 4:19",
+    "pO2 [%]": 16.28,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.8717,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 84,
+    "Minuten nach Start": 5025
+  },
+  {
+    "Zeit": "19/8/23 4:34",
+    "pO2 [%]": 15.75,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.8584,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 84,
+    "Minuten nach Start": 5040
+  },
+  {
+    "Zeit": "19/8/23 4:49",
+    "pO2 [%]": 15.43,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.8982,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 84,
+    "Minuten nach Start": 5055
+  },
+  {
+    "Zeit": "19/8/23 5:04",
+    "pO2 [%]": 15.33,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.8982,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 85,
+    "Minuten nach Start": 5070
+  },
+  {
+    "Zeit": "19/8/23 5:19",
+    "pO2 [%]": 15.43,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.8982,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 85,
+    "Minuten nach Start": 5085
+  },
+  {
+    "Zeit": "19/8/23 5:34",
+    "pO2 [%]": 15.43,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.8717,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 85,
+    "Minuten nach Start": 5100
+  },
+  {
+    "Zeit": "19/8/23 5:49",
+    "pO2 [%]": 15.12,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.8451,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 85,
+    "Minuten nach Start": 5115
+  },
+  {
+    "Zeit": "19/8/23 6:04",
+    "pO2 [%]": 14.06,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.9115,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 86,
+    "Minuten nach Start": 5130
+  },
+  {
+    "Zeit": "19/8/23 6:19",
+    "pO2 [%]": 14.59,
+    "Temperatur [°C]": 23.8468,
+    "pH-Wert": 5.8982,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 86,
+    "Minuten nach Start": 5145
+  },
+  {
+    "Zeit": "19/8/23 6:34",
+    "pO2 [%]": 14.38,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.8717,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 86,
+    "Minuten nach Start": 5160
+  },
+  {
+    "Zeit": "19/8/23 6:49",
+    "pO2 [%]": 14.48,
+    "Temperatur [°C]": 23.8468,
+    "pH-Wert": 5.8451,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 86,
+    "Minuten nach Start": 5175
+  },
+  {
+    "Zeit": "19/8/23 7:04",
+    "pO2 [%]": 14.38,
+    "Temperatur [°C]": 23.8468,
+    "pH-Wert": 5.8319,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 87,
+    "Minuten nach Start": 5190
+  },
+  {
+    "Zeit": "19/8/23 7:19",
+    "pO2 [%]": 13.85,
+    "Temperatur [°C]": 23.7825,
+    "pH-Wert": 5.8319,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 87,
+    "Minuten nach Start": 5205
+  },
+  {
+    "Zeit": "19/8/23 7:34",
+    "pO2 [%]": 14.06,
+    "Temperatur [°C]": 23.7825,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 87,
+    "Minuten nach Start": 5220
+  },
+  {
+    "Zeit": "19/8/23 7:49",
+    "pO2 [%]": 13.53,
+    "Temperatur [°C]": 23.7825,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 87,
+    "Minuten nach Start": 5235
+  },
+  {
+    "Zeit": "19/8/23 8:04",
+    "pO2 [%]": 13.53,
+    "Temperatur [°C]": 23.7825,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 88,
+    "Minuten nach Start": 5250
+  },
+  {
+    "Zeit": "19/8/23 8:19",
+    "pO2 [%]": 13.11,
+    "Temperatur [°C]": 23.7825,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 88,
+    "Minuten nach Start": 5265
+  },
+  {
+    "Zeit": "19/8/23 8:34",
+    "pO2 [%]": 8.88,
+    "Temperatur [°C]": 23.8468,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 88,
+    "Minuten nach Start": 5280
+  },
+  {
+    "Zeit": "19/8/23 8:49",
+    "pO2 [%]": 7.61,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 88,
+    "Minuten nach Start": 5295
+  },
+  {
+    "Zeit": "19/8/23 9:04",
+    "pO2 [%]": 6.87,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8053,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 89,
+    "Minuten nach Start": 5310
+  },
+  {
+    "Zeit": "19/8/23 9:19",
+    "pO2 [%]": 5.81,
+    "Temperatur [°C]": 24.1681,
+    "pH-Wert": 5.8053,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 89,
+    "Minuten nach Start": 5325
+  },
+  {
+    "Zeit": "19/8/23 9:34",
+    "pO2 [%]": 5.5,
+    "Temperatur [°C]": 24.2324,
+    "pH-Wert": 5.8053,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 89,
+    "Minuten nach Start": 5340
+  },
+  {
+    "Zeit": "19/8/23 9:49",
+    "pO2 [%]": 5.81,
+    "Temperatur [°C]": 24.2324,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 89,
+    "Minuten nach Start": 5355
+  },
+  {
+    "Zeit": "19/8/23 10:04",
+    "pO2 [%]": 5.5,
+    "Temperatur [°C]": 24.2324,
+    "pH-Wert": 5.8053,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 90,
+    "Minuten nach Start": 5370
+  },
+  {
+    "Zeit": "19/8/23 10:19",
+    "pO2 [%]": 5.71,
+    "Temperatur [°C]": 24.1681,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 90,
+    "Minuten nach Start": 5385
+  },
+  {
+    "Zeit": "19/8/23 10:34",
+    "pO2 [%]": 5.07,
+    "Temperatur [°C]": 24.1681,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 90,
+    "Minuten nach Start": 5400
+  },
+  {
+    "Zeit": "19/8/23 10:49",
+    "pO2 [%]": 4.44,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 90,
+    "Minuten nach Start": 5415
+  },
+  {
+    "Zeit": "19/8/23 11:04",
+    "pO2 [%]": 4.55,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.7522,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 91,
+    "Minuten nach Start": 5430
+  },
+  {
+    "Zeit": "19/8/23 11:19",
+    "pO2 [%]": 4.33,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 6.0708,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 91,
+    "Minuten nach Start": 5445
+  },
+  {
+    "Zeit": "19/8/23 11:34",
+    "pO2 [%]": 4.76,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 6.0177,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 91,
+    "Minuten nach Start": 5460
+  },
+  {
+    "Zeit": "19/8/23 11:49",
+    "pO2 [%]": 4.76,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 6.0974,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 91,
+    "Minuten nach Start": 5475
+  },
+  {
+    "Zeit": "19/8/23 12:04",
+    "pO2 [%]": 5.07,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 6.1106,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 92,
+    "Minuten nach Start": 5490
+  },
+  {
+    "Zeit": "19/8/23 12:19",
+    "pO2 [%]": 4.65,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 6.177,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 92,
+    "Minuten nach Start": 5505
+  },
+  {
+    "Zeit": "19/8/23 12:34",
+    "pO2 [%]": 4.55,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 6.2434,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 92,
+    "Minuten nach Start": 5520
+  },
+  {
+    "Zeit": "19/8/23 12:49",
+    "pO2 [%]": 5.18,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 6.2035,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 92,
+    "Minuten nach Start": 5535
+  },
+  {
+    "Zeit": "19/8/23 13:04",
+    "pO2 [%]": 4.65,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 6.2434,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 93,
+    "Minuten nach Start": 5550
+  },
+  {
+    "Zeit": "19/8/23 13:19",
+    "pO2 [%]": 5.07,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 6.2168,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 93,
+    "Minuten nach Start": 5565
+  },
+  {
+    "Zeit": "19/8/23 13:34",
+    "pO2 [%]": 5.5,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 6.2566,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 93,
+    "Minuten nach Start": 5580
+  },
+  {
+    "Zeit": "19/8/23 13:49",
+    "pO2 [%]": 4.65,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 6.2566,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 93,
+    "Minuten nach Start": 5595
+  },
+  {
+    "Zeit": "19/8/23 14:04",
+    "pO2 [%]": 4.97,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 6.3097,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 94,
+    "Minuten nach Start": 5610
+  },
+  {
+    "Zeit": "19/8/23 14:19",
+    "pO2 [%]": 5.07,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 6.3097,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 94,
+    "Minuten nach Start": 5625
+  },
+  {
+    "Zeit": "19/8/23 14:34",
+    "pO2 [%]": 4.65,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 6.2832,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 94,
+    "Minuten nach Start": 5640
+  },
+  {
+    "Zeit": "19/8/23 14:49",
+    "pO2 [%]": 5.18,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 6.2965,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 94,
+    "Minuten nach Start": 5655
+  },
+  {
+    "Zeit": "19/8/23 15:04",
+    "pO2 [%]": 4.97,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 6.3097,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 95,
+    "Minuten nach Start": 5670
+  },
+  {
+    "Zeit": "19/8/23 15:19",
+    "pO2 [%]": 4.65,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 6.2699,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 95,
+    "Minuten nach Start": 5685
+  },
+  {
+    "Zeit": "19/8/23 15:34",
+    "pO2 [%]": 4.55,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 6.2035,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 95,
+    "Minuten nach Start": 5700
+  },
+  {
+    "Zeit": "19/8/23 15:49",
+    "pO2 [%]": 4.97,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 6.2301,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 95,
+    "Minuten nach Start": 5715
+  },
+  {
+    "Zeit": "19/8/23 16:04",
+    "pO2 [%]": 4.86,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 6.2566,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 96,
+    "Minuten nach Start": 5730
+  },
+  {
+    "Zeit": "19/8/23 16:19",
+    "pO2 [%]": 4.55,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 6.2566,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 96,
+    "Minuten nach Start": 5745
+  },
+  {
+    "Zeit": "19/8/23 16:34",
+    "pO2 [%]": 4.23,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 6.2566,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 96,
+    "Minuten nach Start": 5760
+  },
+  {
+    "Zeit": "19/8/23 16:49",
+    "pO2 [%]": 4.02,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 6.2566,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 96,
+    "Minuten nach Start": 5775
+  },
+  {
+    "Zeit": "19/8/23 17:04",
+    "pO2 [%]": 3.91,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 6.2434,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 97,
+    "Minuten nach Start": 5790
+  },
+  {
+    "Zeit": "19/8/23 17:19",
+    "pO2 [%]": 4.55,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 6.2168,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 97,
+    "Minuten nach Start": 5805
+  },
+  {
+    "Zeit": "19/8/23 17:34",
+    "pO2 [%]": 3.91,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 6.2301,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 97,
+    "Minuten nach Start": 5820
+  },
+  {
+    "Zeit": "19/8/23 17:49",
+    "pO2 [%]": 3.38,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 6.2434,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 97,
+    "Minuten nach Start": 5835
+  },
+  {
+    "Zeit": "19/8/23 18:04",
+    "pO2 [%]": 6.55,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 6.1903,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 98,
+    "Minuten nach Start": 5850
+  },
+  {
+    "Zeit": "19/8/23 18:19",
+    "pO2 [%]": 10.36,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 6.177,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 98,
+    "Minuten nach Start": 5865
+  },
+  {
+    "Zeit": "19/8/23 18:34",
+    "pO2 [%]": 1.06,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 6.1637,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 98,
+    "Minuten nach Start": 5880
+  },
+  {
+    "Zeit": "19/8/23 18:49",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.9912,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 98,
+    "Minuten nach Start": 5895
+  },
+  {
+    "Zeit": "19/8/23 19:04",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 6.0708,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 99,
+    "Minuten nach Start": 5910
+  },
+  {
+    "Zeit": "19/8/23 19:19",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 6.0443,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 99,
+    "Minuten nach Start": 5925
+  },
+  {
+    "Zeit": "19/8/23 19:34",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 6.0575,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 99,
+    "Minuten nach Start": 5940
+  },
+  {
+    "Zeit": "19/8/23 19:49",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 6.031,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 99,
+    "Minuten nach Start": 5955
+  },
+  {
+    "Zeit": "19/8/23 20:04",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 6.0044,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 100,
+    "Minuten nach Start": 5970
+  },
+  {
+    "Zeit": "19/8/23 20:19",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 6.0044,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 100,
+    "Minuten nach Start": 5985
+  },
+  {
+    "Zeit": "19/8/23 20:34",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.9646,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 100,
+    "Minuten nach Start": 6000
+  },
+  {
+    "Zeit": "19/8/23 20:49",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.9381,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 100,
+    "Minuten nach Start": 6015
+  },
+  {
+    "Zeit": "19/8/23 21:04",
+    "pO2 [%]": 0.11,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.9115,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 101,
+    "Minuten nach Start": 6030
+  },
+  {
+    "Zeit": "19/8/23 21:19",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.885,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 101,
+    "Minuten nach Start": 6045
+  },
+  {
+    "Zeit": "19/8/23 21:34",
+    "pO2 [%]": 0.11,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8319,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 101,
+    "Minuten nach Start": 6060
+  },
+  {
+    "Zeit": "19/8/23 21:49",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 101,
+    "Minuten nach Start": 6075
+  },
+  {
+    "Zeit": "19/8/23 22:04",
+    "pO2 [%]": 0.42,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.8186,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 102,
+    "Minuten nach Start": 6090
+  },
+  {
+    "Zeit": "19/8/23 22:19",
+    "pO2 [%]": 0.42,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 102,
+    "Minuten nach Start": 6105
+  },
+  {
+    "Zeit": "19/8/23 22:34",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 102,
+    "Minuten nach Start": 6120
+  },
+  {
+    "Zeit": "19/8/23 22:49",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 102,
+    "Minuten nach Start": 6135
+  },
+  {
+    "Zeit": "19/8/23 23:04",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7522,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 103,
+    "Minuten nach Start": 6150
+  },
+  {
+    "Zeit": "19/8/23 23:19",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 103,
+    "Minuten nach Start": 6165
+  },
+  {
+    "Zeit": "19/8/23 23:34",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 103,
+    "Minuten nach Start": 6180
+  },
+  {
+    "Zeit": "19/8/23 23:49",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.8186,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 103,
+    "Minuten nach Start": 6195
+  },
+  {
+    "Zeit": "20/8/23 0:04",
+    "pO2 [%]": 0.11,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8451,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 104,
+    "Minuten nach Start": 6210
+  },
+  {
+    "Zeit": "20/8/23 0:19",
+    "pO2 [%]": 0.11,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8186,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 104,
+    "Minuten nach Start": 6225
+  },
+  {
+    "Zeit": "20/8/23 0:34",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8186,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 104,
+    "Minuten nach Start": 6240
+  },
+  {
+    "Zeit": "20/8/23 0:49",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 104,
+    "Minuten nach Start": 6255
+  },
+  {
+    "Zeit": "20/8/23 1:04",
+    "pO2 [%]": 0.11,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 105,
+    "Minuten nach Start": 6270
+  },
+  {
+    "Zeit": "20/8/23 1:19",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 105,
+    "Minuten nach Start": 6285
+  },
+  {
+    "Zeit": "20/8/23 1:34",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7522,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 105,
+    "Minuten nach Start": 6300
+  },
+  {
+    "Zeit": "20/8/23 1:49",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 105,
+    "Minuten nach Start": 6315
+  },
+  {
+    "Zeit": "20/8/23 2:04",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 106,
+    "Minuten nach Start": 6330
+  },
+  {
+    "Zeit": "20/8/23 2:19",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7522,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 106,
+    "Minuten nach Start": 6345
+  },
+  {
+    "Zeit": "20/8/23 2:34",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 106,
+    "Minuten nach Start": 6360
+  },
+  {
+    "Zeit": "20/8/23 2:49",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 106,
+    "Minuten nach Start": 6375
+  },
+  {
+    "Zeit": "20/8/23 3:04",
+    "pO2 [%]": 0.11,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7522,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 107,
+    "Minuten nach Start": 6390
+  },
+  {
+    "Zeit": "20/8/23 3:19",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 107,
+    "Minuten nach Start": 6405
+  },
+  {
+    "Zeit": "20/8/23 3:34",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 107,
+    "Minuten nach Start": 6420
+  },
+  {
+    "Zeit": "20/8/23 3:49",
+    "pO2 [%]": 0.11,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 107,
+    "Minuten nach Start": 6435
+  },
+  {
+    "Zeit": "20/8/23 4:04",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 108,
+    "Minuten nach Start": 6450
+  },
+  {
+    "Zeit": "20/8/23 4:19",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.7522,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 108,
+    "Minuten nach Start": 6465
+  },
+  {
+    "Zeit": "20/8/23 4:34",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 108,
+    "Minuten nach Start": 6480
+  },
+  {
+    "Zeit": "20/8/23 4:49",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 108,
+    "Minuten nach Start": 6495
+  },
+  {
+    "Zeit": "20/8/23 5:04",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 23.8468,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 109,
+    "Minuten nach Start": 6510
+  },
+  {
+    "Zeit": "20/8/23 5:19",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 23.8468,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 109,
+    "Minuten nach Start": 6525
+  },
+  {
+    "Zeit": "20/8/23 5:34",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 23.7825,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 109,
+    "Minuten nach Start": 6540
+  },
+  {
+    "Zeit": "20/8/23 5:49",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.7825,
+    "pH-Wert": 5.7522,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 109,
+    "Minuten nach Start": 6555
+  },
+  {
+    "Zeit": "20/8/23 6:04",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.7825,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 110,
+    "Minuten nach Start": 6570
+  },
+  {
+    "Zeit": "20/8/23 6:19",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.7182,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 110,
+    "Minuten nach Start": 6585
+  },
+  {
+    "Zeit": "20/8/23 6:34",
+    "pO2 [%]": 0.11,
+    "Temperatur [°C]": 23.654,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 110,
+    "Minuten nach Start": 6600
+  },
+  {
+    "Zeit": "20/8/23 6:49",
+    "pO2 [%]": 0.11,
+    "Temperatur [°C]": 23.654,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 110,
+    "Minuten nach Start": 6615
+  },
+  {
+    "Zeit": "20/8/23 7:04",
+    "pO2 [%]": 0.11,
+    "Temperatur [°C]": 23.654,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 111,
+    "Minuten nach Start": 6630
+  },
+  {
+    "Zeit": "20/8/23 7:19",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.5897,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 111,
+    "Minuten nach Start": 6645
+  },
+  {
+    "Zeit": "20/8/23 7:34",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 23.5254,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 111,
+    "Minuten nach Start": 6660
+  },
+  {
+    "Zeit": "20/8/23 7:49",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.5254,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 111,
+    "Minuten nach Start": 6675
+  },
+  {
+    "Zeit": "20/8/23 8:04",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.654,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 112,
+    "Minuten nach Start": 6690
+  },
+  {
+    "Zeit": "20/8/23 8:19",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.654,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 112,
+    "Minuten nach Start": 6705
+  },
+  {
+    "Zeit": "20/8/23 8:34",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.7182,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 112,
+    "Minuten nach Start": 6720
+  },
+  {
+    "Zeit": "20/8/23 8:49",
+    "pO2 [%]": 0.42,
+    "Temperatur [°C]": 23.7182,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 112,
+    "Minuten nach Start": 6735
+  },
+  {
+    "Zeit": "20/8/23 9:04",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.7825,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 113,
+    "Minuten nach Start": 6750
+  },
+  {
+    "Zeit": "20/8/23 9:19",
+    "pO2 [%]": 0.42,
+    "Temperatur [°C]": 23.7825,
+    "pH-Wert": 5.7522,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 113,
+    "Minuten nach Start": 6765
+  },
+  {
+    "Zeit": "20/8/23 9:34",
+    "pO2 [%]": 0,
+    "Temperatur [°C]": 23.8468,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 113,
+    "Minuten nach Start": 6780
+  },
+  {
+    "Zeit": "20/8/23 9:49",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 23.8468,
+    "pH-Wert": 5.7522,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 113,
+    "Minuten nach Start": 6795
+  },
+  {
+    "Zeit": "20/8/23 10:04",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 114,
+    "Minuten nach Start": 6810
+  },
+  {
+    "Zeit": "20/8/23 10:19",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 114,
+    "Minuten nach Start": 6825
+  },
+  {
+    "Zeit": "20/8/23 10:34",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 114,
+    "Minuten nach Start": 6840
+  },
+  {
+    "Zeit": "20/8/23 10:49",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 114,
+    "Minuten nach Start": 6855
+  },
+  {
+    "Zeit": "20/8/23 11:04",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.7522,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 115,
+    "Minuten nach Start": 6870
+  },
+  {
+    "Zeit": "20/8/23 11:19",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.1681,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 115,
+    "Minuten nach Start": 6885
+  },
+  {
+    "Zeit": "20/8/23 11:34",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.2966,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 115,
+    "Minuten nach Start": 6900
+  },
+  {
+    "Zeit": "20/8/23 11:49",
+    "pO2 [%]": 0.42,
+    "Temperatur [°C]": 24.3609,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 115,
+    "Minuten nach Start": 6915
+  },
+  {
+    "Zeit": "20/8/23 12:04",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.4252,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 116,
+    "Minuten nach Start": 6930
+  },
+  {
+    "Zeit": "20/8/23 12:19",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.5537,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 116,
+    "Minuten nach Start": 6945
+  },
+  {
+    "Zeit": "20/8/23 12:34",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.4894,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 116,
+    "Minuten nach Start": 6960
+  },
+  {
+    "Zeit": "20/8/23 12:49",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.4252,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 116,
+    "Minuten nach Start": 6975
+  },
+  {
+    "Zeit": "20/8/23 13:04",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.4252,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 117,
+    "Minuten nach Start": 6990
+  },
+  {
+    "Zeit": "20/8/23 13:19",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.3609,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 117,
+    "Minuten nach Start": 7005
+  },
+  {
+    "Zeit": "20/8/23 13:34",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.2966,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 117,
+    "Minuten nach Start": 7020
+  },
+  {
+    "Zeit": "20/8/23 13:49",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.2966,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 117,
+    "Minuten nach Start": 7035
+  },
+  {
+    "Zeit": "20/8/23 14:04",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.2324,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 118,
+    "Minuten nach Start": 7050
+  },
+  {
+    "Zeit": "20/8/23 14:19",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.2324,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 118,
+    "Minuten nach Start": 7065
+  },
+  {
+    "Zeit": "20/8/23 14:34",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.1681,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 118,
+    "Minuten nach Start": 7080
+  },
+  {
+    "Zeit": "20/8/23 14:49",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.1681,
+    "pH-Wert": 5.8053,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 118,
+    "Minuten nach Start": 7095
+  },
+  {
+    "Zeit": "20/8/23 15:04",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.1681,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 119,
+    "Minuten nach Start": 7110
+  },
+  {
+    "Zeit": "20/8/23 15:19",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 119,
+    "Minuten nach Start": 7125
+  },
+  {
+    "Zeit": "20/8/23 15:34",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 119,
+    "Minuten nach Start": 7140
+  },
+  {
+    "Zeit": "20/8/23 15:49",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.1681,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 119,
+    "Minuten nach Start": 7155
+  },
+  {
+    "Zeit": "20/8/23 16:04",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 120,
+    "Minuten nach Start": 7170
+  },
+  {
+    "Zeit": "20/8/23 16:19",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 120,
+    "Minuten nach Start": 7185
+  },
+  {
+    "Zeit": "20/8/23 16:34",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 120,
+    "Minuten nach Start": 7200
+  },
+  {
+    "Zeit": "20/8/23 16:49",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 120,
+    "Minuten nach Start": 7215
+  },
+  {
+    "Zeit": "20/8/23 17:04",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 121,
+    "Minuten nach Start": 7230
+  },
+  {
+    "Zeit": "20/8/23 17:19",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 121,
+    "Minuten nach Start": 7245
+  },
+  {
+    "Zeit": "20/8/23 17:34",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 121,
+    "Minuten nach Start": 7260
+  },
+  {
+    "Zeit": "20/8/23 17:49",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.1038,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 121,
+    "Minuten nach Start": 7275
+  },
+  {
+    "Zeit": "20/8/23 18:04",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 122,
+    "Minuten nach Start": 7290
+  },
+  {
+    "Zeit": "20/8/23 18:19",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 122,
+    "Minuten nach Start": 7305
+  },
+  {
+    "Zeit": "20/8/23 18:34",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 122,
+    "Minuten nach Start": 7320
+  },
+  {
+    "Zeit": "20/8/23 18:49",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 122,
+    "Minuten nach Start": 7335
+  },
+  {
+    "Zeit": "20/8/23 19:04",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 123,
+    "Minuten nach Start": 7350
+  },
+  {
+    "Zeit": "20/8/23 19:19",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 123,
+    "Minuten nach Start": 7365
+  },
+  {
+    "Zeit": "20/8/23 19:34",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 123,
+    "Minuten nach Start": 7380
+  },
+  {
+    "Zeit": "20/8/23 19:49",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 123,
+    "Minuten nach Start": 7395
+  },
+  {
+    "Zeit": "20/8/23 20:04",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 124,
+    "Minuten nach Start": 7410
+  },
+  {
+    "Zeit": "20/8/23 20:19",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 124,
+    "Minuten nach Start": 7425
+  },
+  {
+    "Zeit": "20/8/23 20:34",
+    "pO2 [%]": 0.42,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 124,
+    "Minuten nach Start": 7440
+  },
+  {
+    "Zeit": "20/8/23 20:49",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 124,
+    "Minuten nach Start": 7455
+  },
+  {
+    "Zeit": "20/8/23 21:04",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 125,
+    "Minuten nach Start": 7470
+  },
+  {
+    "Zeit": "20/8/23 21:19",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 125,
+    "Minuten nach Start": 7485
+  },
+  {
+    "Zeit": "20/8/23 21:34",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 125,
+    "Minuten nach Start": 7500
+  },
+  {
+    "Zeit": "20/8/23 21:49",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 125,
+    "Minuten nach Start": 7515
+  },
+  {
+    "Zeit": "20/8/23 22:04",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 126,
+    "Minuten nach Start": 7530
+  },
+  {
+    "Zeit": "20/8/23 22:19",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 126,
+    "Minuten nach Start": 7545
+  },
+  {
+    "Zeit": "20/8/23 22:34",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 126,
+    "Minuten nach Start": 7560
+  },
+  {
+    "Zeit": "20/8/23 22:49",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 126,
+    "Minuten nach Start": 7575
+  },
+  {
+    "Zeit": "20/8/23 23:04",
+    "pO2 [%]": 0.21,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 127,
+    "Minuten nach Start": 7590
+  },
+  {
+    "Zeit": "20/8/23 23:19",
+    "pO2 [%]": 0.42,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 127,
+    "Minuten nach Start": 7605
+  },
+  {
+    "Zeit": "20/8/23 23:34",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 127,
+    "Minuten nach Start": 7620
+  },
+  {
+    "Zeit": "20/8/23 23:49",
+    "pO2 [%]": 0.11,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8053,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 127,
+    "Minuten nach Start": 7635
+  },
+  {
+    "Zeit": "21/8/23 0:04",
+    "pO2 [%]": 0.42,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.7655,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 128,
+    "Minuten nach Start": 7650
+  },
+  {
+    "Zeit": "21/8/23 0:19",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 128,
+    "Minuten nach Start": 7665
+  },
+  {
+    "Zeit": "21/8/23 0:34",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 128,
+    "Minuten nach Start": 7680
+  },
+  {
+    "Zeit": "21/8/23 0:49",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.7788,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 128,
+    "Minuten nach Start": 7695
+  },
+  {
+    "Zeit": "21/8/23 1:04",
+    "pO2 [%]": 0.11,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 129,
+    "Minuten nach Start": 7710
+  },
+  {
+    "Zeit": "21/8/23 1:19",
+    "pO2 [%]": 0.53,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 129,
+    "Minuten nach Start": 7725
+  },
+  {
+    "Zeit": "21/8/23 1:34",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 129,
+    "Minuten nach Start": 7740
+  },
+  {
+    "Zeit": "21/8/23 1:49",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8186,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 129,
+    "Minuten nach Start": 7755
+  },
+  {
+    "Zeit": "21/8/23 2:04",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.8053,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 130,
+    "Minuten nach Start": 7770
+  },
+  {
+    "Zeit": "21/8/23 2:19",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.8053,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 130,
+    "Minuten nach Start": 7785
+  },
+  {
+    "Zeit": "21/8/23 2:34",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.8053,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 130,
+    "Minuten nach Start": 7800
+  },
+  {
+    "Zeit": "21/8/23 2:49",
+    "pO2 [%]": 0.42,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8053,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 130,
+    "Minuten nach Start": 7815
+  },
+  {
+    "Zeit": "21/8/23 3:04",
+    "pO2 [%]": 0.32,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 131,
+    "Minuten nach Start": 7830
+  },
+  {
+    "Zeit": "21/8/23 3:19",
+    "pO2 [%]": 0.42,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.792,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 131,
+    "Minuten nach Start": 7845
+  },
+  {
+    "Zeit": "21/8/23 3:34",
+    "pO2 [%]": 0.42,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.8053,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 131,
+    "Minuten nach Start": 7860
+  },
+  {
+    "Zeit": "21/8/23 3:49",
+    "pO2 [%]": 0.53,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.8053,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 131,
+    "Minuten nach Start": 7875
+  },
+  {
+    "Zeit": "21/8/23 4:04",
+    "pO2 [%]": 0.53,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8053,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 132,
+    "Minuten nach Start": 7890
+  },
+  {
+    "Zeit": "21/8/23 4:19",
+    "pO2 [%]": 0.53,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.8319,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 132,
+    "Minuten nach Start": 7905
+  },
+  {
+    "Zeit": "21/8/23 4:34",
+    "pO2 [%]": 0.42,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8319,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 132,
+    "Minuten nach Start": 7920
+  },
+  {
+    "Zeit": "21/8/23 4:49",
+    "pO2 [%]": 0.53,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.8053,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 132,
+    "Minuten nach Start": 7935
+  },
+  {
+    "Zeit": "21/8/23 5:04",
+    "pO2 [%]": 0.42,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.8053,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 133,
+    "Minuten nach Start": 7950
+  },
+  {
+    "Zeit": "21/8/23 5:19",
+    "pO2 [%]": 2.33,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.8319,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 133,
+    "Minuten nach Start": 7965
+  },
+  {
+    "Zeit": "21/8/23 5:34",
+    "pO2 [%]": 2.11,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.8186,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 133,
+    "Minuten nach Start": 7980
+  },
+  {
+    "Zeit": "21/8/23 5:49",
+    "pO2 [%]": 2.75,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8319,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 133,
+    "Minuten nach Start": 7995
+  },
+  {
+    "Zeit": "21/8/23 6:04",
+    "pO2 [%]": 2.54,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.8319,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 134,
+    "Minuten nach Start": 8010
+  },
+  {
+    "Zeit": "21/8/23 6:19",
+    "pO2 [%]": 2.33,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8451,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 134,
+    "Minuten nach Start": 8025
+  },
+  {
+    "Zeit": "21/8/23 6:34",
+    "pO2 [%]": 2.22,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8319,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 134,
+    "Minuten nach Start": 8040
+  },
+  {
+    "Zeit": "21/8/23 6:49",
+    "pO2 [%]": 2.33,
+    "Temperatur [°C]": 23.9753,
+    "pH-Wert": 5.8186,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 134,
+    "Minuten nach Start": 8055
+  },
+  {
+    "Zeit": "21/8/23 7:04",
+    "pO2 [%]": 2.22,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8451,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 135,
+    "Minuten nach Start": 8070
+  },
+  {
+    "Zeit": "21/8/23 7:19",
+    "pO2 [%]": 2.43,
+    "Temperatur [°C]": 23.911,
+    "pH-Wert": 5.8319,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 135,
+    "Minuten nach Start": 8085
+  },
+  {
+    "Zeit": "21/8/23 7:34",
+    "pO2 [%]": 2.22,
+    "Temperatur [°C]": 24.0396,
+    "pH-Wert": 5.8319,
+    "Rührerdrehzahl [rpm]": 270,
+    "Timestamp": 135,
+    "Minuten nach Start": 8100
+  }
+]

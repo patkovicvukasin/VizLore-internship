@@ -1,0 +1,3436 @@
+[
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-0",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2023-05-30T22:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 10
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 3
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 15
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 7.5
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "alt"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": 230
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": "erster Lauf mit neuem Kompressor"
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 430
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": 27.9
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": 13.5
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": "0,048 +/- 0,001"
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": "2,3 +/- 0,1"
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-1",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2023-06-12T22:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 10
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 3
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 15
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 7.5
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "alt"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": 230
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": "viel Schaum, daher hoher Restanteil Rübenschnitzel"
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 467.1
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": 28.9
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": "12,6 +/- 0,3"
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": "0,032 +/- 0,001"
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": "2,4 +/- 0,2"
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-2",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2023-08-06T22:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 10
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 3
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 30
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 15
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "alt"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": 230
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": null
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 408
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": 52.9
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": "10,6 +/- 0,1"
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": "0,196 +/- 0,02 ??"
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": "2,6 +/- 0,3"
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-3",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2023-08-13T22:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 5
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 10
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 3
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 15
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 7.5
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": "150/200"
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": "erster Lauf mit neuem Sparger"
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 700
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": "77,8 g (31,1 g bezogen auf 280 g Feuchtmasse)"
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": "9,93 +/- 0,02"
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": "0,048 +/- 0,001"
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": "2,4 +/- 0,5"
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-4",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2023-08-20T22:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 10
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 3
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 30
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 15
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": "170/270"
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": "schlechte Durchmischung im Bodenbereich, Sprünge in O2-Sonde deuten auf Zuwachsen hin"
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 650
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": 51.3
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": "11,9 +/- 0,4"
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": "0,048 +/- 0,003"
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": "3,2 +/- 0,1"
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-5",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2023-10-03T22:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 7
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 10
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 3
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 30
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 15
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": 200
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": "viel Mycel am Sparger festgewachsen, Sauerstoff bei nahezu 0 %"
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 750
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": 70.3
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": 11.8
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": "0,039 +/- 0,002"
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-6",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2023-10-10T22:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 8
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 20
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 2.7
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 30
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 15
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": "220/250"
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja (Base leer am 10.10.)"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": null
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 435
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": 96.4
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": 11.8
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": "0,023 +/- 0,003"
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-7",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2023-10-17T22:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 10
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 3
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 45
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 22.5
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": 230
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": "viel Mycel, Sauerstoff stark gesunken (zum ende 20%)"
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 813
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": 91.2
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": 11.4
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": "0,033 +/- 0,005"
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-8",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2023-11-05T23:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 30
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 2.4
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 45
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 22.5
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": 210
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": "starke Schaumbildung"
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 750
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": 109.5
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": 10.8
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": 0.032
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-9",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2023-11-13T23:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 20
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 2.7
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 30
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 15
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": "190/300"
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": "gute Sauerstoffsättigung zum Ende; starke Schaumbildung"
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 523
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": 70.1
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": 10.5
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": 0.056
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-10",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2023-11-26T23:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 10
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 3
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": "-"
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": "-"
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": 210
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": "Lauf mit ME (20 g/L)"
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": "AF-Pumpe"
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 217
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": 16.2
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": "0,517 +/- 0,026"
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-11",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2023-12-03T23:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 20
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 2.7
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 30
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 15
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": 200
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": "guter Ansatz"
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 798
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": 73.4
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": 10.2
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": 0.042
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-12",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2023-12-16T23:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": "war hier ein Lauf???"
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": "Kontaminiert"
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": null
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": null
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": null
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": null
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": null
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": null
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": null
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": null
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": null
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": null
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": null
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": null
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": null
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": null
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-13",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2023-12-26T23:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 10
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 3
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 45
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 22.5
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": 210
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": null
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 693
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": 129
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": "9,3 +/- 0,4"
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": 0.034
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-14",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2024-01-14T23:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 30
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 2.4
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 45
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 22.5
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": "230/450"
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": "Rührer zeigte bei 230 kaum Wirkung, daher nach 2 Tagen auf 450-500 hochgesetzt"
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 1002
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": 117.2
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": 11.6
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": "0,057 +/- 0,001"
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-15",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2024-02-18T23:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 10
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 3
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 15
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 7.5
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": "250/450"
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": "nur die Hälfte wurde geerntet"
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 185
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": 27
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": 11.6
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": "0,071 +/- 0,002"
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-16",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2024-03-03T23:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 10
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 2.1
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 60
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 30
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": "400/600"
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": null
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 880
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": 155
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": 10.2
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": "0,068 +/- 0,002"
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-17",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2024-03-12T23:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 20
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 2.1
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 60
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 30
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": "300/600"
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": null
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 756
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-18",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2024-03-19T23:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 40
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 2.1
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 60
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 30
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": "300/600"
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": null
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 965
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-19",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2024-03-26T23:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 10
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 2.1
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 60
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 30
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": "400/500"
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": null
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-20",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2024-04-02T22:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": "gekippt"
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": null
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": null
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": null
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": null
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": null
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": null
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": null
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": null
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": null
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": null
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": null
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": null
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": null
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": null
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": null
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-21",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2024-04-15T22:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 20
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 2.1
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 60
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 30
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": "250/320"
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": null
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 771
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-22",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2024-04-22T22:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 40
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 2.1
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 60
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 30
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": 400
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": null
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 1090
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-23",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "XX.05.2024"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": "gekippt"
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": null
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": null
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": null
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": null
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": null
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": null
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": null
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": null
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": null
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": null
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": null
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": null
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": null
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": null
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": "Übersteuerung der AF-Sonde führte zu unkontrolliertem Zulauf; Ernte nicht verwertbar"
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-24",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "XX.05.2024"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": "gekippt"
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": null
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": null
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": null
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": null
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": null
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": null
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": null
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": null
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": null
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": null
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": null
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": null
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": null
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": null
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": "Übersteuerung der AF-Sonde führte zu unkontrolliertem Zulauf; Ernte nicht verwertbar"
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-25",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2024-06-03T22:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 20
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 2.7
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 15
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 7.5
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": "230/300"
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": "sehr wässrig, kaum Abtrennung von Myzel und Medium durch abpressen"
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 162
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-26",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2024-06-11T22:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 10
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 3
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 30
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 15
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": 230
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": null
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 202
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-27",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2024-06-18T22:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 20
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 2.7
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 30
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 15
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": "230/400"
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": null
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 630
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-28",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2024-07-23T22:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 20
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 2.7
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 60
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 30
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": "400/1000"
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": "sehr dickflüssig, kaum Durchmischung möglich, optisch schlechtes Pilzwachstum"
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 1183.35
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-29",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2024-07-31T22:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 7
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 40
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 2.1
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 60
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 30
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": "300/400"
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": "Flüssigkeitsverlust durch Auslaufen, ca. 600 mL ausgelaufen"
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 929.5
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-30",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2024-08-07T22:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 20
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 2.7
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 15
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 7.5
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": 230
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": null
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 192
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-31",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2024-08-13T22:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 10
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 3
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 15
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 7.5
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 2
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": null
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": null
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-32",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2024-08-20T22:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 10
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 3
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 15
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 7.5
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": 230
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": "Pilz nicht homogenisiert vor Inokulation"
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": 153
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  },
+  {
+    "@context": "https://schema.lab.fiware.org/ld/context",
+    "id": "urn:ngsi-ld:ZestEntry:off-line_ralf-33",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Property",
+      "value": "2024-08-27T22:00:00.000Z"
+    },
+    "Dauer Fermentation [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Dauer Wachstum Vorkulturen [Tage]": {
+      "type": "Property",
+      "value": 6
+    },
+    "Vorkulturen zerkleinert [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Vorkulturen Inokualtionsvolumen [% von Medienvolumen]": {
+      "type": "Property",
+      "value": 20
+    },
+    "Medienvolumen [L]": {
+      "type": "Property",
+      "value": 2.7
+    },
+    "Medienkonzentration Rübenschnitzel [g/L]": {
+      "type": "Property",
+      "value": 15
+    },
+    "Medienkonzentration Melasse [g/L]": {
+      "type": "Property",
+      "value": 7.5
+    },
+    "Gesamtvolumen nach Inokulation [L]": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "Begasungsrate [vvm]": {
+      "type": "Property",
+      "value": 1
+    },
+    "Spargertyp [alt/neu]": {
+      "type": "Property",
+      "value": "neu"
+    },
+    "Rührer Drehzahl [rpm]": {
+      "type": "Property",
+      "value": 230
+    },
+    "Art des Rührwerks": {
+      "type": "Property",
+      "value": "Rushtone impeller"
+    },
+    "pH geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Temperatur geregelt [ja/nein]": {
+      "type": "Property",
+      "value": "ja"
+    },
+    "Antischaum geregelt [ja/ nein]": {
+      "type": "Property",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Property",
+      "value": null
+    },
+    "Ausfälle": {
+      "type": "Property",
+      "value": null
+    },
+    "Relevante Abschnitte Aufzeichnung Reaktor": {
+      "type": "Property",
+      "value": null
+    },
+    "Feuchtmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Trockenmasse [g]": {
+      "type": "Property",
+      "value": null
+    },
+    "Proteingehalt [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Ergosterol [g/100g TM]": {
+      "type": "Property",
+      "value": null
+    },
+    "Chitin-Gehalt [g/ 100 gTM]": {
+      "type": "Property",
+      "value": null
+    }
+  }
+]

@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-0",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "5/31/2023"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 10
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 3
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 15
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 7.5
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "alt"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Number",
+      "value": 230
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": "erster Lauf mit neuem Kompressor"
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 430
+    },
+    "Trockenmasse_g": {
+      "type": "Number",
+      "value": 27.9
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Number",
+      "value": 13.5
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": "0,048 +/- 0,001"
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": "2,3 +/- 0,1"
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-1",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "6/13/2023"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 10
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 3
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 15
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 7.5
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "alt"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Number",
+      "value": 230
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": "viel Schaum, daher hoher Restanteil Rübenschnitzel"
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 467.1
+    },
+    "Trockenmasse_g": {
+      "type": "Number",
+      "value": 28.9
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": "12,6 +/- 0,3"
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": "0,032 +/- 0,001"
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": "2,4 +/- 0,2"
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-2",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "8/7/2023"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 10
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 3
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 30
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 15
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "alt"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Number",
+      "value": 230
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": null
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 408
+    },
+    "Trockenmasse_g": {
+      "type": "Number",
+      "value": 52.9
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": "10,6 +/- 0,1"
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": "0,196 +/- 0,02 ??"
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": "2,6 +/- 0,3"
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-3",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "8/14/2023"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 5
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 10
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 3
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 15
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 7.5
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Text",
+      "value": "150/200"
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": "erster Lauf mit neuem Sparger"
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 700
+    },
+    "Trockenmasse_g": {
+      "type": "Text",
+      "value": "77,8 g (31,1 g bezogen auf 280 g Feuchtmasse)"
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": "9,93 +/- 0,02"
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": "0,048 +/- 0,001"
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": "2,4 +/- 0,5"
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-4",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "8/21/2023"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 10
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 3
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 30
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 15
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Text",
+      "value": "170/270"
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": "schlechte Durchmischung im Bodenbereich, Sprünge in O2-Sonde deuten auf Zuwachsen hin"
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 650
+    },
+    "Trockenmasse_g": {
+      "type": "Number",
+      "value": 51.3
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": "11,9 +/- 0,4"
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": "0,048 +/- 0,003"
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": "3,2 +/- 0,1"
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-5",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "10/4/2023"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 7
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 10
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 3
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 30
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 15
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Number",
+      "value": 200
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": "viel Mycel am Sparger festgewachsen, Sauerstoff bei nahezu 0 %"
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 750
+    },
+    "Trockenmasse_g": {
+      "type": "Number",
+      "value": 70.3
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Number",
+      "value": 11.8
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": "0,039 +/- 0,002"
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-6",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "10/11/2023"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 8
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 20
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 2.7
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 30
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 15
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Text",
+      "value": "220/250"
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja (Base leer am 10.10.)"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": null
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 435
+    },
+    "Trockenmasse_g": {
+      "type": "Number",
+      "value": 96.4
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Number",
+      "value": 11.8
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": "0,023 +/- 0,003"
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-7",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "10/18/2023"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 10
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 3
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 45
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 22.5
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Number",
+      "value": 230
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": "viel Mycel, Sauerstoff stark gesunken (zum ende 20%)"
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 813
+    },
+    "Trockenmasse_g": {
+      "type": "Number",
+      "value": 91.2
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Number",
+      "value": 11.4
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": "0,033 +/- 0,005"
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-8",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "11/6/2023"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 30
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 2.4
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 45
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 22.5
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Number",
+      "value": 210
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": "starke Schaumbildung"
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 750
+    },
+    "Trockenmasse_g": {
+      "type": "Number",
+      "value": 109.5
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Number",
+      "value": 10.8
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Number",
+      "value": 0.032
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-9",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "11/14/2023"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 20
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 2.7
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 30
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 15
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Text",
+      "value": "190/300"
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": "gute Sauerstoffsättigung zum Ende; starke Schaumbildung"
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 523
+    },
+    "Trockenmasse_g": {
+      "type": "Number",
+      "value": 70.1
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Number",
+      "value": 10.5
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Number",
+      "value": 0.056
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-10",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "11/27/2023"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 10
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 3
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Text",
+      "value": "-"
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Text",
+      "value": "-"
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Number",
+      "value": 210
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": "Lauf mit ME (20 g/L)"
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": "AF-Pumpe"
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 217
+    },
+    "Trockenmasse_g": {
+      "type": "Number",
+      "value": 16.2
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": "0,517 +/- 0,026"
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-11",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "12/4/2023"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 20
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 2.7
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 30
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 15
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Number",
+      "value": 200
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": "guter Ansatz"
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 798
+    },
+    "Trockenmasse_g": {
+      "type": "Number",
+      "value": 73.4
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Number",
+      "value": 10.2
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Number",
+      "value": 0.042
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-12",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "12/17/2023"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Text",
+      "value": "war hier ein Lauf???"
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Text",
+      "value": "Kontaminiert"
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": null
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Text",
+      "value": null
+    },
+    "Medienvolumen_L": {
+      "type": "Text",
+      "value": null
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Text",
+      "value": null
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Text",
+      "value": null
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Text",
+      "value": null
+    },
+    "Begasungsrate_vvm": {
+      "type": "Text",
+      "value": null
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": null
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Text",
+      "value": null
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": null
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": null
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": null
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": null
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": null
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Trockenmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-13",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "12/27/2023"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 10
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 3
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 45
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 22.5
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Number",
+      "value": 210
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": null
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 693
+    },
+    "Trockenmasse_g": {
+      "type": "Number",
+      "value": 129
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": "9,3 +/- 0,4"
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Number",
+      "value": 0.034
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-14",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "1/15/2024"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 30
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 2.4
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 45
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 22.5
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Text",
+      "value": "230/450"
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": "Rührer zeigte bei 230 kaum Wirkung, daher nach 2 Tagen auf 450-500 hochgesetzt"
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 1002
+    },
+    "Trockenmasse_g": {
+      "type": "Number",
+      "value": 117.2
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Number",
+      "value": 11.6
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": "0,057 +/- 0,001"
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-15",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "2/19/2024"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 10
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 3
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 15
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 7.5
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Text",
+      "value": "250/450"
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": "nur die Hälfte wurde geerntet"
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 185
+    },
+    "Trockenmasse_g": {
+      "type": "Number",
+      "value": 27
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Number",
+      "value": 11.6
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": "0,071 +/- 0,002"
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-16",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "3/4/2024"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 10
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 2.1
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 60
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 30
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Text",
+      "value": "400/600"
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": null
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 880
+    },
+    "Trockenmasse_g": {
+      "type": "Number",
+      "value": 155
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Number",
+      "value": 10.2
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": "0,068 +/- 0,002"
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-17",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "3/13/2024"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 20
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 2.1
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 60
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 30
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Text",
+      "value": "300/600"
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": null
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 756
+    },
+    "Trockenmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-18",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "3/20/2024"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 40
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 2.1
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 60
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 30
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Text",
+      "value": "300/600"
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": null
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 965
+    },
+    "Trockenmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-19",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "3/27/2024"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 10
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 2.1
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 60
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 30
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Text",
+      "value": "400/500"
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": null
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Trockenmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-20",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "4/3/2024"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Text",
+      "value": "gekippt"
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Text",
+      "value": null
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": null
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Text",
+      "value": null
+    },
+    "Medienvolumen_L": {
+      "type": "Text",
+      "value": null
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Text",
+      "value": null
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Text",
+      "value": null
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Text",
+      "value": null
+    },
+    "Begasungsrate_vvm": {
+      "type": "Text",
+      "value": null
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": null
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Text",
+      "value": null
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": null
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": null
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": null
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": null
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": null
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Trockenmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-21",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "4/16/2024"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 20
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 2.1
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 60
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 30
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Text",
+      "value": "250/320"
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": null
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 771
+    },
+    "Trockenmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-22",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "4/23/2024"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 40
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 2.1
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 60
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 30
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Number",
+      "value": 400
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": null
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 1090
+    },
+    "Trockenmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-23",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "XX.05.2024"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Text",
+      "value": "gekippt"
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Text",
+      "value": null
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": null
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Text",
+      "value": null
+    },
+    "Medienvolumen_L": {
+      "type": "Text",
+      "value": null
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Text",
+      "value": null
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Text",
+      "value": null
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Text",
+      "value": null
+    },
+    "Begasungsrate_vvm": {
+      "type": "Text",
+      "value": null
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": null
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Text",
+      "value": null
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": null
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": null
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": null
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": null
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": "Übersteuerung der AF-Sonde führte zu unkontrolliertem Zulauf; Ernte nicht verwertbar"
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Trockenmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-24",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "XX.05.2024"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Text",
+      "value": "gekippt"
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Text",
+      "value": null
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": null
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Text",
+      "value": null
+    },
+    "Medienvolumen_L": {
+      "type": "Text",
+      "value": null
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Text",
+      "value": null
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Text",
+      "value": null
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Text",
+      "value": null
+    },
+    "Begasungsrate_vvm": {
+      "type": "Text",
+      "value": null
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": null
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Text",
+      "value": null
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": null
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": null
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": null
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": null
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": "Übersteuerung der AF-Sonde führte zu unkontrolliertem Zulauf; Ernte nicht verwertbar"
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Trockenmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-25",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "6/4/2024"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 20
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 2.7
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 15
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 7.5
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Text",
+      "value": "230/300"
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": "sehr wässrig, kaum Abtrennung von Myzel und Medium durch abpressen"
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 162
+    },
+    "Trockenmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-26",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "6/12/2024"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 10
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 3
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 30
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 15
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Number",
+      "value": 230
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": null
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 202
+    },
+    "Trockenmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-27",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "6/19/2024"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 20
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 2.7
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 30
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 15
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Text",
+      "value": "230/400"
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": null
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 630
+    },
+    "Trockenmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-28",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "7/24/2024"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 20
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 2.7
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 60
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 30
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Text",
+      "value": "400/1000"
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": "sehr dickflüssig, kaum Durchmischung möglich, optisch schlechtes Pilzwachstum"
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 1183.35
+    },
+    "Trockenmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-29",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "8/1/2024"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 7
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 40
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 2.1
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 60
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 30
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Text",
+      "value": "300/400"
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": "Flüssigkeitsverlust durch Auslaufen, ca. 600 mL ausgelaufen"
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 929.5
+    },
+    "Trockenmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-30",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "8/8/2024"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 20
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 2.7
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 15
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 7.5
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Number",
+      "value": 230
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": null
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 192
+    },
+    "Trockenmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-31",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "8/14/2024"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 10
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 3
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 15
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 7.5
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 2
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Text",
+      "value": null
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": null
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Trockenmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-32",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "8/21/2024"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 10
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 3
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 15
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 7.5
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Number",
+      "value": 230
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": "Pilz nicht homogenisiert vor Inokulation"
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Number",
+      "value": 153
+    },
+    "Trockenmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:ZestEntry:offline_ralf-33",
+    "type": "ZestEntry",
+    "Erntetag": {
+      "type": "Text",
+      "value": "8/28/2024"
+    },
+    "Dauer_Fermentation_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Dauer_Wachstum_Vorkulturen_Tage": {
+      "type": "Number",
+      "value": 6
+    },
+    "Vorkulturen_zerkleinert_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Vorkulturen_Inokualtionsvolumen_von_Medienvolumen": {
+      "type": "Number",
+      "value": 20
+    },
+    "Medienvolumen_L": {
+      "type": "Number",
+      "value": 2.7
+    },
+    "Medienkonzentration_Rubenschnitzel_g_L": {
+      "type": "Number",
+      "value": 15
+    },
+    "Medienkonzentration_Melasse_g_L": {
+      "type": "Number",
+      "value": 7.5
+    },
+    "Gesamtvolumen_nach_Inokulation_L": {
+      "type": "Number",
+      "value": 3.3
+    },
+    "Begasungsrate_vvm": {
+      "type": "Number",
+      "value": 1
+    },
+    "Spargertyp_alt_neu": {
+      "type": "Text",
+      "value": "neu"
+    },
+    "Ruhrer_Drehzahl_rpm": {
+      "type": "Number",
+      "value": 230
+    },
+    "Art_des_Ruhrwerks": {
+      "type": "Text",
+      "value": "Rushtone impeller"
+    },
+    "pH_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Temperatur_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "ja"
+    },
+    "Antischaum_geregelt_ja_nein": {
+      "type": "Text",
+      "value": "nein"
+    },
+    "Anmerkungen": {
+      "type": "Text",
+      "value": null
+    },
+    "Ausfalle": {
+      "type": "Text",
+      "value": null
+    },
+    "Relevante_Abschnitte_Aufzeichnung_Reaktor": {
+      "type": "Text",
+      "value": null
+    },
+    "Feuchtmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Trockenmasse_g": {
+      "type": "Text",
+      "value": null
+    },
+    "Proteingehalt_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Ergosterol_g_100g_TM": {
+      "type": "Text",
+      "value": null
+    },
+    "Chitin_Gehalt_g_100_gTM": {
+      "type": "Text",
+      "value": null
+    }
+  }
+]
