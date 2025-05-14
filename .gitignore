@@ -1,3 +1,9 @@
-node_modules/
-.env
-.DS_Store
+# Ignoriši старе docker-compose из mongo-api и fiware
+mongo-api/
+fiware/
+
+# Node modules за све подпројекте
+**/node_modules/
+
+# Env файлови
+**/.env

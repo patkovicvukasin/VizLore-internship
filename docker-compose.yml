@@ -1,0 +1,41 @@
+version: '3.8'
+
+services:
+  # MongoDB за backend
+  data-mongo:
+    image: mongo:6.0
+    container_name: data-mongo
+    volumes:
+      - data-mongo-vol:/data/db
+    networks:
+      - zest-net
+
+  # Backend service
+  backend:
+    build:
+      context: ./backend
+    container_name: zest-backend
+    env_file: ./backend/.env
+    depends_on:
+      - data-mongo
+    ports:
+      - "4000:4000"
+    networks:
+      - zest-net
+
+  # Frontend service
+  frontend:
+    build:
+      context: ./frontend
+    container_name: zest-frontend
+    ports:
+      - "3000:3000"
+    networks:
+      - zest-net
+
+volumes:
+  data-mongo-vol:
+
+networks:
+  zest-net:
+    driver: bridge
