@@ -1,14 +1,52 @@
 services:
-  # MongoDB за backend
+  # MongoDB за аутх
+  auth-mongo:
+    image: mongo:6
+    container_name: auth-mongo
+    ports:
+      - "27018:27017"
+    volumes:
+      - auth-mongo-vol:/data/db
+    networks:
+      - zest-net
+
+  # MongoDB за data
   data-mongo:
-    image: mongo:6.0
+    image: mongo:6
     container_name: data-mongo
+    ports:
+      - "27019:27017"
     volumes:
       - data-mongo-vol:/data/db
     networks:
       - zest-net
 
-  # Backend service
+  # Redis (BullMQ)
+  redis:
+    image: redis:7
+    container_name: redis
+    networks:
+      - zest-net
+
+  # FIWARE Orion Context Broker
+  orion:
+    image: fiware/orion:latest
+    container_name: orion
+    ports:
+      - "1026:1026"
+    command:
+      - "-dbURI"
+      - "mongodb://data-mongo:27017/datadb"
+      - "-port"
+      - "1026"
+      - "-logLevel"
+      - "INFO"
+    depends_on:
+      - data-mongo
+    networks:
+      - zest-net
+
+  # Backend (Express)
   backend:
     build:
       context: ./backend
@@ -16,22 +54,15 @@ services:
     env_file: ./backend/.env
     depends_on:
       - data-mongo
+      - auth-mongo
+      - redis
     ports:
       - "4000:4000"
     networks:
       - zest-net
-
-  # Frontend service
-  frontend:
-    build:
-      context: ./frontend
-    container_name: zest-frontend
-    ports:
-      - "3000:3000"
-    networks:
-      - zest-net
-
+      
 volumes:
+  auth-mongo-vol:
   data-mongo-vol:
 
 networks:

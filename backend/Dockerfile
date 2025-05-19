@@ -6,7 +6,8 @@ WORKDIR /app
 
 # Копирај само package файлове и инсталирај зависности
 COPY package.json package-lock.json ./
-RUN npm install --production
+# брже и поузданије од npm install --production
+RUN npm ci --omit=dev        
 RUN mkdir -p uploads
 # Копирај остатак кода
 COPY . .
