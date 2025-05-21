@@ -1,3 +1,4 @@
+import mongoose from 'mongoose';
 import { authConn } from '../connections/authConnection.js';
 
 const userSchema = new mongoose.Schema({
