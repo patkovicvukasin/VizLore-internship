@@ -19,7 +19,6 @@ export const uploadCsv = [
       return res.status(400).json({ message: 'No file uploaded' });
     }
 
-    // Pročitaj opcioni format iz form-data: "jsonld" | "ngsiv2" | "both"
     const { format } = req.body;
     const allowed = ['jsonld', 'ngsiv2', 'both', undefined];
     if (!allowed.includes(format)) {
@@ -27,25 +26,21 @@ export const uploadCsv = [
     }
 
     try {
-      // 1) Упиши документ у datadb.uploads
       const uploadDoc = await Upload.create({
         filename: req.file.originalname,
         userId: req.userId,
-        format // čuvamo opcioni format u dokumentu
+        format
       });
 
-      // 2) Додај job у ред са format poljem
       await csvQueue.add('csv', {
         path: req.file.path,
         uploadId: uploadDoc._id,
-        format // prosleđuje se worker-u
-      //});
+        format 
       }, {
-        attempts: 3,                           // укупно 3 покушаја
-        backoff: { type: 'exponential', delay: 5000 } // експоненцијални раст између покушаја
+        attempts: 3,                  
+        backoff: { type: 'exponential', delay: 5000 }
       });
 
-      // 3) Врати 202 Accepted + ID
       res.status(202).json({ uploadId: uploadDoc._id });
     } catch (err) {
       console.error('Upload error:', err);
@@ -59,13 +54,27 @@ export const getUploadStatus = async (req, res) => {
   try {
     const upload = await Upload.findById(
       req.params.id,
-      { status: 1, error: 1 }
+      { status: 1, jsonld: 1, ngsiv2: 1, error: 1 }
     ).lean();
 
-    if (!upload) return res.sendStatus(404);
-    res.json(upload);
+    if (!upload) {
+      return res.sendStatus(404);
+    }
+
+    const count = Array.isArray(upload.jsonld)
+      ? upload.jsonld.length
+      : Array.isArray(upload.ngsiv2)
+      ? upload.ngsiv2.length
+      : 0;
+
+    return res.json({
+      status: upload.status,
+      count,
+      error: upload.error
+    });
   } catch (err) {
     console.error('Status error:', err);
-    res.status(500).json({ message: 'Server error' });
+    return res.status(500).json({ message: 'Server error' });
   }
 };
+

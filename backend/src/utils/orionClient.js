@@ -1,35 +1,37 @@
-// src/utils/orionClient.js
-// Ova verzija koristi globalni fetch (Node.js 18+). Ako ti ne radi, instaliraj i otkomentariši:
-// const fetch = require('node-fetch');
-
-// UBACI samo osnovni URL bez "/v2" – ruta se dodaje niže
 const ORION_URL = process.env.ORION_URL || 'http://orion:1026';
+const FIWARE_SERVICE = process.env.FIWARE_SERVICE || 'zest';
+const FIWARE_SERVICEPATH = process.env.FIWARE_SERVICEPATH || '/';
 
-/**
- * Šalje NGSIv2 entitete u FIWARE Orion Context Broker
- * @param {Array} entities - niz entiteta po NGSIv2 specifikaciji
- * @throws {Error} ako Orion vrati status !== 2xx
- */
-async function upsertEntities(entities) {
-  const url = `${ORION_URL}/v2/op/update`;
-  const res = await fetch(url, {
+const BATCH_SIZE = 100;
+
+async function sendBatch(entitiesBatch) {
+  const res = await fetch(`${ORION_URL}/v2/op/update`, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
-      'Fiware-Service': 'zest',        // tenant ime po potrebi
-      'Fiware-ServicePath': '/'
+      'Fiware-Service': FIWARE_SERVICE,
+      'Fiware-ServicePath': FIWARE_SERVICEPATH,
     },
     body: JSON.stringify({
-      actionType: 'append',            // možeš promeniti u 'APPEND' za usklađenost sa NGSIv2 spec
-      entities
-    })
+      actionType: 'APPEND',
+      entities: entitiesBatch,
+    }),
   });
-
   if (!res.ok) {
     const txt = await res.text();
     throw new Error(`Orion ${res.status} – ${txt}`);
   }
-  // Opcionalno: return await res.json();
 }
 
-export { upsertEntities };
+export async function upsertEntities(entities) {
+  for (let i = 0; i < entities.length; i += BATCH_SIZE) {
+    const batch = entities.slice(i, i + BATCH_SIZE);
+    console.log(`▶ Sending batch ${i/BATCH_SIZE + 1} (${batch.length} entities)`);
+    try {
+      await sendBatch(batch);
+    } catch (err) {
+      console.error('❌ Failed batch payload:', JSON.stringify(batch, null, 2));
+      throw err;
+    }
+  }
+}

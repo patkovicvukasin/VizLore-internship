@@ -1,4 +1,3 @@
-// backend/src/jobs/csvWorker.js
 import fs from 'fs';
 import csvParser from 'csv-parser';
 import { Worker } from 'bullmq';
@@ -7,13 +6,11 @@ import { toJsonLd, toNgsiV2 } from '../utils/convertCSV.js';
 import { upsertEntities } from '../utils/orionClient.js';
 import { redisConnection } from '../lib/queue.js';
 
-// Pokreće se BullMQ worker sa centralnom Redis konekcijom
 new Worker(
   'csv',
   async (job) => {
     const { path: filePath, uploadId, format } = job.data;
     try {
-      // 1) Čitanje CSV-a:
       const rows = [];
       await new Promise((resolve, reject) => {
         fs.createReadStream(filePath)
@@ -23,36 +20,30 @@ new Worker(
           .on('error', reject);
       });
 
-      // 2) Konverzija:
       let jsonld, ngsiv2;
-      switch (format) {
-        case 'jsonld':
-          jsonld = toJsonLd(rows);
-          break;
-        case 'ngsiv2':
-          ngsiv2 = toNgsiV2(rows);
-          await upsertEntities(ngsiv2);
-          break;
-        default: // both ili undefined
-          jsonld = toJsonLd(rows);
-          ngsiv2 = toNgsiV2(rows);
-          await upsertEntities(ngsiv2);
+
+      if (format === 'jsonld' || format === 'both' || !format) {
+        jsonld = toJsonLd(rows);
       }
 
-      // 3) Ažuriranje Mongo dokumenta:
+      if (format === 'ngsiv2' || format === 'both' || !format) {
+        ngsiv2 = toNgsiV2(rows);
+        console.log(`⬆️ Sending ${ngsiv2.length} entities to Orion...`);
+        await upsertEntities(ngsiv2);
+        console.log(`✅ Successfully sent entities to Orion`);
+      }
+
       await Upload.findByIdAndUpdate(uploadId, {
         status: 'SUCCESS',
         ...(jsonld && { jsonld }),
         ...(ngsiv2 && { ngsiv2 })
       });
     } catch (err) {
-      // Greška tokom obrade:
       await Upload.findByIdAndUpdate(uploadId, {
         status: 'FAIL',
         error: err.message
       });
     } finally {
-      // 4) Brisanje privremenog fajla:
       fs.rmSync(filePath, { force: true });
     }
   },

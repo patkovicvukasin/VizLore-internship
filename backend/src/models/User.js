@@ -1,5 +1,3 @@
-// backend/src/models/User.js
-import mongoose from 'mongoose';
 import { authConn } from '../connections/authConnection.js';
 
 const userSchema = new mongoose.Schema({
@@ -8,5 +6,4 @@ const userSchema = new mongoose.Schema({
   createdAt: { type: Date, default: Date.now },
 });
 
-// Креирамо модел на специфичној auth конекцији
 export default authConn.model('User', userSchema);

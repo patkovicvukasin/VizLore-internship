@@ -1,4 +1,3 @@
-// backend/src/connections/authConnection.js
 import dotenv from 'dotenv';
 dotenv.config();
 import mongoose from 'mongoose';
