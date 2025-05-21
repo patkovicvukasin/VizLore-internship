@@ -1,5 +1,4 @@
 services:
-  # MongoDB за аутх
   auth-mongo:
     image: mongo:6
     container_name: auth-mongo
@@ -10,7 +9,6 @@ services:
     networks:
       - zest-net
 
-  # MongoDB за data
   data-mongo:
     image: mongo:6
     container_name: data-mongo
@@ -21,14 +19,12 @@ services:
     networks:
       - zest-net
 
-  # Redis (BullMQ)
   redis:
     image: redis:7
     container_name: redis
     networks:
       - zest-net
 
-  # FIWARE Orion Context Broker
   orion:
     image: fiware/orion:latest
     container_name: orion
@@ -46,7 +42,6 @@ services:
     networks:
       - zest-net
 
-  # Backend (Express)
   backend:
     build:
       context: ./backend
@@ -58,6 +53,20 @@ services:
       - redis
     ports:
       - "4000:4000"
+    networks:
+      - zest-net
+  
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: zest-frontend
+    environment:
+      - REACT_APP_API_URL=http://backend:4000/api
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
     networks:
       - zest-net
       
