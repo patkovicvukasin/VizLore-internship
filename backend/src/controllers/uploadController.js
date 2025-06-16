@@ -1,12 +1,9 @@
-// backend/src/controllers/uploadController.js
 import multer from 'multer';
 import Upload from '../models/Upload.js';
 import { csvQueue } from '../lib/queue.js';
 
-// Configure multer for file uploads
 const upload = multer({ dest: 'uploads/' });
 
-// POST /api/upload controller
 export const uploadCsv = [
   upload.single('file'),
   async (req, res) => {
@@ -49,7 +46,6 @@ export const uploadCsv = [
   }
 ];
 
-// GET /api/upload/:id
 export const getUploadStatus = async (req, res) => {
   try {
     const upload = await Upload.findById(

@@ -1,4 +1,3 @@
-// src/pages/UploadPage.jsx
 import React, { useState, useContext, useEffect } from 'react';
 import api from '../api';
 import { AuthContext } from '../contexts/AuthContext';
@@ -14,7 +13,6 @@ export default function UploadPage() {
   const [message, setMessage] = useState('');
   const [messageType, setMessageType] = useState('info');
 
-  // Poll status and update message accordingly
   useUploadStatus(uploadId, token, (newStatus) => {
     setStatus(newStatus);
     if (newStatus.status === 'PENDING') {
