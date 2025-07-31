@@ -4,7 +4,6 @@ dotenv.config();
 import express from 'express';
 import cors from 'cors';
 import authRoutes from './routes/auth.js';
-import uploadRoutes from './routes/upload.js';
 
 const app = express();
 
@@ -19,6 +18,10 @@ app.get('/', (_req, res) => {
 });
 
 app.use('/api/auth', authRoutes);
-app.use('/api/upload', uploadRoutes);
+
+if (process.env.NODE_ENV !== 'test') {
+  const uploadRoutes = (await import('./routes/upload.js')).default;
+  app.use('/api/upload', uploadRoutes);
+}
 
 export default app;

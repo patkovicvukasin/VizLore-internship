@@ -1,73 +1,53 @@
 process.env.NODE_ENV = 'test';
 
-import { jest } from '@jest/globals';
-import { GenericContainer } from 'testcontainers';
-import { spawn } from 'child_process';
-import fetch from 'node-fetch';
-import waitOn from 'wait-on';
+import request from 'supertest';
+import mongoose from 'mongoose';
+import { MongoMemoryServer } from 'mongodb-memory-server';
+import app from '../src/app.js';
 
-jest.setTimeout(3 * 60_000);
-
-let mongoContainer;
-let serverProcess;
+let mongoServer;
 
 beforeAll(async () => {
-  mongoContainer = await new GenericContainer('mongo:latest')
-    .withExposedPorts(27017)
-    .start();
-  const host = mongoContainer.getHost();
-  const port = mongoContainer.getMappedPort(27017);
-  const mongoUri = `mongodb://${host}:${port}/authdb`;
-
-  process.env.MONGO_URI_AUTH = mongoUri;
-  process.env.MONGO_URI_DATA = mongoUri;
-  process.env.ORION_URL = 'http://localhost:12345';
-
-  serverProcess = spawn('node', ['src/index.js'], {
-    env: { 
-      ...process.env, 
-      NODE_ENV: 'development',
-      PORT: '4000' 
-    },
-    stdio: 'ignore'
-  });
-
-  await waitOn({
-    resources: ['http://localhost:4000/'],
-    timeout: 30_000
-  });
+  mongoServer = await MongoMemoryServer.create();
+  await mongoose.connect(mongoServer.getUri());
 });
 
 afterAll(async () => {
-  serverProcess.kill('SIGTERM');
-  await mongoContainer.stop();
+  await mongoose.disconnect();
+  await mongoServer.stop();
 });
 
-describe('Integration: Auth endpoints', () => {
-  it('should register and login a new user end-to-end', async () => {
-    const registerRes = await fetch('http://localhost:4000/api/auth/register', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
+describe('Auth API', () => {
+  it('should register a new user', async () => {
+    const res = await request(app)
+      .post('/api/auth/register')
+      .send({
+        email: 'test@example.com',
+        password: 'Test1234',
+        confirmPassword: 'Test1234',
+      });
+
+    expect(res.statusCode).toBe(201);
+    expect(res.body.message).toBe('User registered successfully');
+  });
+
+  it('should login a registered user', async () => {
+    await request(app)
+      .post('/api/auth/register')
+      .send({
         email: 'user@example.com',
         password: 'Test1234',
-        confirmPassword: 'Test1234'
-      }),
-    });
-    expect(registerRes.status).toBe(201);
-    const registerBody = await registerRes.json();
-    expect(registerBody.message).toBe('User registered successfully');
+        confirmPassword: 'Test1234',
+      });
 
-    const loginRes = await fetch('http://localhost:4000/api/auth/login', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
+    const res = await request(app)
+      .post('/api/auth/login')
+      .send({
         email: 'user@example.com',
-        password: 'Test1234'
-      }),
-    });
-    expect(loginRes.status).toBe(200);
-    const loginBody = await loginRes.json();
-    expect(loginBody.token).toBeDefined();
+        password: 'Test1234',
+      });
+
+    expect(res.statusCode).toBe(200);
+    expect(res.body.token).toBeDefined();
   });
 });
