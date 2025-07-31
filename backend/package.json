@@ -5,6 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
+    "test:unit": "node --experimental-vm-modules node_modules/jest/bin/jest.js --testPathPatterns \"\\.unit\\.test\\.js$\"",
+    "test:integration": "node --experimental-vm-modules node_modules/jest/bin/jest.js --testPathPatterns \"\\.integration\\.test\\.js$\"",
+    "test": "npm run test:unit && npm run test:integration", 
     "worker": "node src/jobs/csvWorker.js",
     "dev": "concurrently \"npm run start\" \"npm run worker\""
   },
@@ -24,6 +27,12 @@
     "papaparse": "^5.5.2"
   },
   "devDependencies": {
-    "concurrently": "^8.2.2"
+    "concurrently": "^8.2.2",
+    "jest": "^30.0.5",
+    "mongodb-memory-server": "^10.1.4",
+    "node-fetch": "^3.3.2",
+    "supertest": "^7.1.4",
+    "testcontainers": "^11.4.0",
+    "wait-on": "^8.0.4"
   }
 }
