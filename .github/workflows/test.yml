@@ -2,9 +2,9 @@ name: Run Backend & Frontend Tests
 
 on:
   pull_request:
-    branches: [ main ]
+    branches: [ master ]
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   backend-tests:
