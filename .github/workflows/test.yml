@@ -11,6 +11,9 @@ jobs:
     name: Backend Tests (Unit + Integration)
     runs-on: ubuntu-latest
 
+    env:
+      JWT_SECRET: testsecret
+
     services:
       mongo:
         image: mongo:6
